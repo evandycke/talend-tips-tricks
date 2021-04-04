@@ -1,0 +1,26 @@
+# Arborescence du projet
+temp/
+
+# Projets Talend
+talend/.JETEmitters/
+talend/.metadata/
+talend/CHARGEMENT/.settings/
+talend/EXTRACTION/.settings/
+talend/FRAMEWORK/.settings/
+talend/TRANSFORMATION/.settings/
+
+# Projets Java
+java/bin/
+java/.classpath
+java/.project
+java/.settings/
+java/build/
+java/.gradle/
+
+# Java
+*.class
+
+# Package Files
+*.jar
+*.war
+*.ear
