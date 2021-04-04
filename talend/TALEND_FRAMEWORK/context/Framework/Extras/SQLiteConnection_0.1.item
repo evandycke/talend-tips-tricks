@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_ogJacOm_EeqthY-ZP78g2A" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_ogJacem_EeqthY-ZP78g2A" comment="" name="sqliteDatabase" prompt="sqliteDatabase?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_ogJacum_EeqthY-ZP78g2A" comment="" name="sqliteUseRegisterSharedDBConnection" prompt="sqliteUseRegisterSharedDBConnection?" promptNeeded="false" type="id_Boolean" value="false"/>
+  <contextParameter xmi:id="_ogJac-m_EeqthY-ZP78g2A" comment="" name="sqliteSharedDBConnectionName" prompt="sqliteSharedDBConnectionName?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_ogJadOm_EeqthY-ZP78g2A" comment="" name="sqliteAutoCommit" prompt="sqliteAutoCommit?" promptNeeded="false" type="id_Boolean" value="false"/>
+</talendfile:ContextType>

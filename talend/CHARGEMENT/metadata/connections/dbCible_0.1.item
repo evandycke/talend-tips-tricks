@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.relational="http:///orgomg/cwm/resource/relational.ecore">
+  <TalendMetadata:DatabaseConnection xmi:id="_NBe5gC6wEeWABbuGwP4-Mw" name="dbCible" id="_2bQTgC6vEeWABbuGwP4-Mw" label="dbCible" dataPackage="_glRpQC6wEeWABbuGwP4-Mw" ContextMode="true" ContextId="_M1TesC6wEeWABbuGwP4-Mw" contextName="Default" DatabaseType="General JDBC" DriverJarPath="context.dbCible_DriverJar" DriverClass="context.dbCible_ClassName" URL="context.dbCible_JdbcUrl" Port="xxxx" Username="context.dbCible_Login" Password="context.dbCible_Password" ServerName="" DatasourceName="" FileFieldName="" SID="" SqlSynthax="Syntaxe SQL" DbmsId="context.dbCible_MappingFile" ProductId="JDBC" AdditionalParams="" SystemSQL="true" SQLMode="false" UiSchema="">
+    <taggedValue xmi:id="_NBe5gS6wEeWABbuGwP4-Mw" tag="Is Conn Need Reload" value="false"/>
+    <taggedValue xmi:id="_NCYRYC6wEeWABbuGwP4-Mw" tag="package filter" value=""/>
+    <taggedValue xmi:id="_NIti4C6wEeWABbuGwP4-Mw" tag="Status" value=""/>
+    <taggedValue xmi:id="_NIti4S6wEeWABbuGwP4-Mw" tag="Version" value="0.1"/>
+    <taggedValue xmi:id="_NIti4i6wEeWABbuGwP4-Mw" tag="Purpose" value=""/>
+    <taggedValue xmi:id="_NIti4y6wEeWABbuGwP4-Mw" tag="Description" value=""/>
+    <taggedValue xmi:id="_NIti5C6wEeWABbuGwP4-Mw" tag="Author" value=""/>
+    <taggedValue xmi:id="_NIti5S6wEeWABbuGwP4-Mw" tag="otherParameter"/>
+    <taggedValue xmi:id="_NIv_IC6wEeWABbuGwP4-Mw" tag="DB ProductName" value="SQLite"/>
+    <taggedValue xmi:id="_NIv_IS6wEeWABbuGwP4-Mw" tag="DB ProductVersion" value="3.6.23.1"/>
+    <taggedValue xmi:id="_NIv_Ii6wEeWABbuGwP4-Mw" tag="DB IdentifierQuoteString" value=" "/>
+  </TalendMetadata:DatabaseConnection>
+  <orgomg.cwm.resource.relational:Schema xmi:id="_glRpQC6wEeWABbuGwP4-Mw" name=" " dataManager="_NBe5gC6wEeWABbuGwP4-Mw"/>
+</xmi:XMI>

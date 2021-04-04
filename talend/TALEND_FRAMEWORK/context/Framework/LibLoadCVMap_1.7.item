@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_og7dkOm_EeqthY-ZP78g2A" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_og7dkem_EeqthY-ZP78g2A" comment="" name="libLoadCVMapFile" prompt="libLoadCVMapFile?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_og7dkum_EeqthY-ZP78g2A" comment="" name="libLoadCVMapEncoding" prompt="libLoadCVMapEncoding?" promptNeeded="false" type="id_String" value="ISO-8859-15"/>
+  <contextParameter xmi:id="_og7dk-m_EeqthY-ZP78g2A" comment="" name="libLoadCVMapName" prompt="libLoadCVMapName?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_og7dlOm_EeqthY-ZP78g2A" comment="" name="libLoadCVFile" prompt="libLoadCVFile?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_og7dlem_EeqthY-ZP78g2A" comment="" name="libLoadCVShowMappingTable" prompt="libLoadCVShowMappingTable?" promptNeeded="false" type="id_Boolean" value="false"/>
+  <contextParameter xmi:id="_og7dlum_EeqthY-ZP78g2A" comment="" name="libLoadCVErrorOnEmptyMappingTable" prompt="libLoadCVErrorOnEmptyMappingTable?" promptNeeded="false" type="id_Boolean" value="true"/>
+  <contextParameter xmi:id="_og7dl-m_EeqthY-ZP78g2A" comment="" name="libLoadCVSmartMatching" prompt="libLoadCVSmartMatching?" promptNeeded="false" type="id_Boolean" value="true"/>
+  <contextParameter xmi:id="_og7dmOm_EeqthY-ZP78g2A" comment="" name="libLoadCVErrorOnInvalidTarget" prompt="libLoadCVErrorOnInvalidTarget?" promptNeeded="false" type="id_Boolean" value="true"/>
+  <contextParameter xmi:id="_og7dmem_EeqthY-ZP78g2A" comment="" name="libLoadCVErrorOnDuplicateSource" prompt="libLoadCVErrorOnDuplicateSource?" promptNeeded="false" type="id_Boolean" value="false"/>
+  <contextParameter xmi:id="_og7dmum_EeqthY-ZP78g2A" comment="" name="libLoadCVApplyDefaultMapping" prompt="libLoadCVApplyDefaultMapping?" promptNeeded="false" type="id_Boolean" value="true"/>
+</talendfile:ContextType>

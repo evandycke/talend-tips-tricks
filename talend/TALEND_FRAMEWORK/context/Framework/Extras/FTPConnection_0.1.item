@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_ofmA0Om_EeqthY-ZP78g2A" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_ofmA0em_EeqthY-ZP78g2A" comment="" name="ftpHost" prompt="ftpHost?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_ofmA0um_EeqthY-ZP78g2A" comment="" name="ftpPort" prompt="ftpPort?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_ofmA0-m_EeqthY-ZP78g2A" comment="" name="ftpUsername" prompt="ftpUsername?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_ofmA1Om_EeqthY-ZP78g2A" comment="" name="ftpPassword" prompt="ftpPassword?" promptNeeded="false" type="id_Password" value=""/>
+  <contextParameter xmi:id="_ofmA1em_EeqthY-ZP78g2A" comment="" name="ftpSFTPSupport" prompt="ftpSFTPSupport?" promptNeeded="false" type="id_Boolean" value="false"/>
+  <contextParameter xmi:id="_ofmA1um_EeqthY-ZP78g2A" comment="" name="ftpFTPSSupport" prompt="ftpFTPSSupport?" promptNeeded="false" type="id_Boolean" value="false"/>
+  <contextParameter xmi:id="_ofmA1-m_EeqthY-ZP78g2A" comment="" name="ftpConnectionMode" prompt="ftpConnectionMode?" promptNeeded="false" type="id_String" value="Passive"/>
+  <contextParameter xmi:id="_ofmA2Om_EeqthY-ZP78g2A" comment="" name="ftpEncoding" prompt="ftpEncoding?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_ofmA2em_EeqthY-ZP78g2A" comment="" name="ftpUseSocksProxy" prompt="ftpUseSocksProxy?" promptNeeded="false" type="id_Boolean" value="false"/>
+</talendfile:ContextType>

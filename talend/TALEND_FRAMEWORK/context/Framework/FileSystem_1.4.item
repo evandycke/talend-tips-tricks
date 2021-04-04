@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_ogdjgOm_EeqthY-ZP78g2A" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_ogdjgem_EeqthY-ZP78g2A" comment="" name="inputDir" prompt="inputDir?" promptNeeded="false" type="id_String" value="#BASEDIR/#JOBNAME/input"/>
+  <contextParameter xmi:id="_ogdjgum_EeqthY-ZP78g2A" comment="" name="outputDir" prompt="outputDir?" promptNeeded="false" type="id_String" value="#BASEDIR/#JOBNAME/output"/>
+  <contextParameter xmi:id="_ogdjg-m_EeqthY-ZP78g2A" comment="" name="workingDir" prompt="workingDir?" promptNeeded="false" type="id_String" value="#BASEDIR/#JOBNAME/working"/>
+  <contextParameter xmi:id="_ogdjhOm_EeqthY-ZP78g2A" comment="" name="tmpDir" prompt="tmpDir?" promptNeeded="false" type="id_String" value="#BASEDIR/#JOBNAME/tmp"/>
+  <contextParameter xmi:id="_ogdjhem_EeqthY-ZP78g2A" comment="" name="archiveDir" prompt="archiveDir?" promptNeeded="false" type="id_String" value="#BASEDIR/archive"/>
+  <contextParameter xmi:id="_ogdjhum_EeqthY-ZP78g2A" comment="" name="reportingDir" prompt="reportingDir?" promptNeeded="false" type="id_String" value="#BASEDIR/reporting"/>
+  <contextParameter xmi:id="_ogdjh-m_EeqthY-ZP78g2A" comment="" name="databaseDir" prompt="databaseDir?" promptNeeded="false" type="id_String" value="#BASEDIR/#JOBNAME/database"/>
+  <contextParameter xmi:id="_ogdjiOm_EeqthY-ZP78g2A" comment="" name="paramDir" prompt="paramDir?" promptNeeded="false" type="id_String" value="#BASEDIR/#JOBNAME/param"/>
+  <contextParameter xmi:id="_ogdjiem_EeqthY-ZP78g2A" comment="" name="logDir" prompt="logDir?" promptNeeded="false" type="id_String" value="#BASEDIR/#JOBNAME/log"/>
+  <contextParameter xmi:id="_ogdjium_EeqthY-ZP78g2A" comment="" name="binDir" prompt="binDir?" promptNeeded="false" type="id_String" value="#BASEDIR/bin"/>
+  <contextParameter xmi:id="_ogdji-m_EeqthY-ZP78g2A" comment="" name="libDir" prompt="libDir?" promptNeeded="false" type="id_String" value="#BASEDIR/#JOBNAME/lib"/>
+  <contextParameter xmi:id="_ogdjjOm_EeqthY-ZP78g2A" comment="" name="gLibDir" prompt="gLibDir?" promptNeeded="false" type="id_String" value="#BASEDIR/lib"/>
+  <contextParameter xmi:id="_ogdjjem_EeqthY-ZP78g2A" comment="" name="targetDir" prompt="targetDir?" promptNeeded="false" type="id_String" value="#BASEDIR/#JOBNAME/target"/>
+  <contextParameter xmi:id="_ogdjjum_EeqthY-ZP78g2A" comment="" name="lockDir" prompt="lockDir?" promptNeeded="false" type="id_String" value="#BASEDIR/lock"/>
+  <contextParameter xmi:id="_ogdjj-m_EeqthY-ZP78g2A" comment="" name="baseDir" prompt="baseDir?" promptNeeded="false" type="id_String" value="#HOME/project/talend/#CONTEXTSTR/#PROJECTNAME"/>
+  <contextParameter xmi:id="_ogdjkOm_EeqthY-ZP78g2A" comment="" name="statsDir" prompt="statsDir?" promptNeeded="false" type="id_String" value="#BASEDIR/#JOBNAME/stats"/>
+  <contextParameter xmi:id="_ogdjkem_EeqthY-ZP78g2A" comment="" name="contextDir" prompt="contextDir?" promptNeeded="false" type="id_String" value="#BASEDIR/context"/>
+  <contextParameter xmi:id="_ogdjkum_EeqthY-ZP78g2A" comment="" name="checkpointDir" prompt="checkpointDir?" promptNeeded="false" type="id_String" value="#BASEDIR/#JOBNAME/checkpoint"/>
+</talendfile:ContextType>

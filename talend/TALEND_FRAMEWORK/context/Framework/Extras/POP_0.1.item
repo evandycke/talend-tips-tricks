@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_of3toOm_EeqthY-ZP78g2A" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_of3toem_EeqthY-ZP78g2A" comment="" name="popHost" prompt="popHost?" promptNeeded="false" type="id_String" value="127.0.0.1"/>
+  <contextParameter xmi:id="_of3toum_EeqthY-ZP78g2A" comment="" name="popPort" prompt="popPort?" promptNeeded="false" type="id_Integer" value="110"/>
+  <contextParameter xmi:id="_of3to-m_EeqthY-ZP78g2A" comment="" name="popUsername" prompt="popUsername?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_of3tpOm_EeqthY-ZP78g2A" comment="" name="popPassword" prompt="popPassword?" promptNeeded="false" type="id_Password" value=""/>
+  <contextParameter xmi:id="_of3tpem_EeqthY-ZP78g2A" comment="" name="popOutputDirectory" prompt="popOutputDirectory?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_of3tpum_EeqthY-ZP78g2A" comment="" name="popFilenamePattern" prompt="popFilenamePattern?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_of3tp-m_EeqthY-ZP78g2A" comment="" name="popRetrieveAllEmails" prompt="popRetrieveAllEmails?" promptNeeded="false" type="id_Boolean" value="true"/>
+  <contextParameter xmi:id="_of3tqOm_EeqthY-ZP78g2A" comment="" name="popNumberOfEmailsToRetrieve" prompt="popNumberOfEmailsToRetrieve?" promptNeeded="false" type="id_Integer" value="10"/>
+  <contextParameter xmi:id="_of3tqem_EeqthY-ZP78g2A" comment="" name="popDeleteEmailsFromServer" prompt="popDeleteEmailsFromServer?" promptNeeded="false" type="id_Boolean" value="false"/>
+  <contextParameter xmi:id="_of3tqum_EeqthY-ZP78g2A" comment="" name="popProtocol" prompt="popProtocol?" promptNeeded="false" type="id_String" value="pop3"/>
+  <contextParameter xmi:id="_of3tq-m_EeqthY-ZP78g2A" comment="" name="popUseSSL" prompt="popUseSSL?" promptNeeded="false" type="id_Boolean" value="false"/>
+  <contextParameter xmi:id="_of3trOm_EeqthY-ZP78g2A" comment="" name="popFilterItemSubjectPattern" prompt="popFilterItemSubjectPattern?" promptNeeded="false" type="id_String" value="(?s).*"/>
+  <contextParameter xmi:id="_of3trem_EeqthY-ZP78g2A" comment="" name="popSpecifyMailFolder" prompt="popSpecifyMailFolder?" promptNeeded="false" type="id_Boolean" value="false"/>
+  <contextParameter xmi:id="_of3trum_EeqthY-ZP78g2A" comment="" name="popMailFolder" prompt="popMailFolder?" promptNeeded="false" type="id_String" value="&quot;INBOX&quot;"/>
+</talendfile:ContextType>

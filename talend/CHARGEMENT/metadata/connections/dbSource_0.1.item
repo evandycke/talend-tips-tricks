@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.relational="http:///orgomg/cwm/resource/relational.ecore">
+  <TalendMetadata:DatabaseConnection xmi:id="_gp-_kC6vEeWm6-vQ0GyZbg" name="dbSource" id="_P6Pr0C6vEeWm6-vQ0GyZbg" label="dbSource" dataPackage="_dYI-4C6wEeWABbuGwP4-Mw _dYI-4i6wEeWABbuGwP4-Mw _dYI-5C6wEeWABbuGwP4-Mw _dYI-5i6wEeWABbuGwP4-Mw _dYI-6C6wEeWABbuGwP4-Mw _dYI-6i6wEeWABbuGwP4-Mw _dYI-7C6wEeWABbuGwP4-Mw _dYI-7i6wEeWABbuGwP4-Mw _dYI-8C6wEeWABbuGwP4-Mw _dYI-8i6wEeWABbuGwP4-Mw _dYI-9C6wEeWABbuGwP4-Mw _dYI-9i6wEeWABbuGwP4-Mw" ContextMode="true" ContextId="_05zH0C6vEeWABbuGwP4-Mw" contextName="Default" DatabaseType="General JDBC" DriverJarPath="context.dbSource_DriverJar" DriverClass="context.dbSource_ClassName" URL="context.dbSource_JdbcUrl" Port="xxxx" Username="context.dbSource_Login" Password="context.dbSource_Password" ServerName="" DatasourceName="" FileFieldName="" SID="" SqlSynthax="Syntaxe SQL" DbmsId="context.dbSource_MappingFile" ProductId="JDBC" AdditionalParams="" SystemSQL="true" SQLMode="false" UiSchema="context.dbSource_Schema">
+    <taggedValue xmi:id="_gp_moC6vEeWm6-vQ0GyZbg" tag="Is Conn Need Reload" value="true"/>
+    <taggedValue xmi:id="_1nAMEC6vEeWABbuGwP4-Mw" tag="Status" value=""/>
+    <taggedValue xmi:id="_1nAMES6vEeWABbuGwP4-Mw" tag="Version" value="0.1"/>
+    <taggedValue xmi:id="_1nAMEi6vEeWABbuGwP4-Mw" tag="Purpose" value=""/>
+    <taggedValue xmi:id="_1nAMEy6vEeWABbuGwP4-Mw" tag="Description" value=""/>
+    <taggedValue xmi:id="_1nAMFC6vEeWABbuGwP4-Mw" tag="Author" value=""/>
+    <taggedValue xmi:id="_1nAMFS6vEeWABbuGwP4-Mw" tag="otherParameter"/>
+    <taggedValue xmi:id="_1nBaMC6vEeWABbuGwP4-Mw" tag="DB ProductName" value="Microsoft SQL Server"/>
+    <taggedValue xmi:id="_1nBaMS6vEeWABbuGwP4-Mw" tag="DB ProductVersion" value="10.00.5538"/>
+    <taggedValue xmi:id="_1nBaMi6vEeWABbuGwP4-Mw" tag="DB IdentifierQuoteString" value="&quot;"/>
+  </TalendMetadata:DatabaseConnection>
+  <orgomg.cwm.resource.relational:Catalog xmi:id="_dYI-4C6wEeWABbuGwP4-Mw" name="DataWarehouse" dataManager="_gp-_kC6vEeWm6-vQ0GyZbg">
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_dYI-4S6wEeWABbuGwP4-Mw" name="dbo"/>
+  </orgomg.cwm.resource.relational:Catalog>
+  <orgomg.cwm.resource.relational:Catalog xmi:id="_dYI-4i6wEeWABbuGwP4-Mw" name="EMAGNUS_03" dataManager="_gp-_kC6vEeWm6-vQ0GyZbg">
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_dYI-4y6wEeWABbuGwP4-Mw" name="dbo"/>
+  </orgomg.cwm.resource.relational:Catalog>
+  <orgomg.cwm.resource.relational:Catalog xmi:id="_dYI-5C6wEeWABbuGwP4-Mw" name="EMAGNUS_04" dataManager="_gp-_kC6vEeWm6-vQ0GyZbg">
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_dYI-5S6wEeWABbuGwP4-Mw" name="dbo"/>
+  </orgomg.cwm.resource.relational:Catalog>
+  <orgomg.cwm.resource.relational:Catalog xmi:id="_dYI-5i6wEeWABbuGwP4-Mw" name="EMAGNUS_27" dataManager="_gp-_kC6vEeWm6-vQ0GyZbg">
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_dYI-5y6wEeWABbuGwP4-Mw" name="dbo"/>
+  </orgomg.cwm.resource.relational:Catalog>
+  <orgomg.cwm.resource.relational:Catalog xmi:id="_dYI-6C6wEeWABbuGwP4-Mw" name="EMAGNUS_30" dataManager="_gp-_kC6vEeWm6-vQ0GyZbg">
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_dYI-6S6wEeWABbuGwP4-Mw" name="dbo"/>
+  </orgomg.cwm.resource.relational:Catalog>
+  <orgomg.cwm.resource.relational:Catalog xmi:id="_dYI-6i6wEeWABbuGwP4-Mw" name="EMAGNUS_31" dataManager="_gp-_kC6vEeWm6-vQ0GyZbg">
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_dYI-6y6wEeWABbuGwP4-Mw" name="dbo"/>
+  </orgomg.cwm.resource.relational:Catalog>
+  <orgomg.cwm.resource.relational:Catalog xmi:id="_dYI-7C6wEeWABbuGwP4-Mw" name="EMAGNUS_32" dataManager="_gp-_kC6vEeWm6-vQ0GyZbg">
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_dYI-7S6wEeWABbuGwP4-Mw" name="dbo"/>
+  </orgomg.cwm.resource.relational:Catalog>
+  <orgomg.cwm.resource.relational:Catalog xmi:id="_dYI-7i6wEeWABbuGwP4-Mw" name="master" dataManager="_gp-_kC6vEeWm6-vQ0GyZbg">
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_dYI-7y6wEeWABbuGwP4-Mw" name="dbo"/>
+  </orgomg.cwm.resource.relational:Catalog>
+  <orgomg.cwm.resource.relational:Catalog xmi:id="_dYI-8C6wEeWABbuGwP4-Mw" name="model" dataManager="_gp-_kC6vEeWm6-vQ0GyZbg">
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_dYI-8S6wEeWABbuGwP4-Mw" name="dbo"/>
+  </orgomg.cwm.resource.relational:Catalog>
+  <orgomg.cwm.resource.relational:Catalog xmi:id="_dYI-8i6wEeWABbuGwP4-Mw" name="msdb" dataManager="_gp-_kC6vEeWm6-vQ0GyZbg">
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_dYI-8y6wEeWABbuGwP4-Mw" name="dbo"/>
+  </orgomg.cwm.resource.relational:Catalog>
+  <orgomg.cwm.resource.relational:Catalog xmi:id="_dYI-9C6wEeWABbuGwP4-Mw" name="Northwind" dataManager="_gp-_kC6vEeWm6-vQ0GyZbg">
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_dYI-9S6wEeWABbuGwP4-Mw" name="dbo"/>
+  </orgomg.cwm.resource.relational:Catalog>
+  <orgomg.cwm.resource.relational:Catalog xmi:id="_dYI-9i6wEeWABbuGwP4-Mw" name="tempdb" dataManager="_gp-_kC6vEeWm6-vQ0GyZbg">
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_dYI-9y6wEeWABbuGwP4-Mw" name="dbo"/>
+  </orgomg.cwm.resource.relational:Catalog>
+</xmi:XMI>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_og1-AOm_EeqthY-ZP78g2A" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_og1-Aem_EeqthY-ZP78g2A" comment="" name="libLoadCVMapFile" prompt="libLoadCVMapFile?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_og1-Aum_EeqthY-ZP78g2A" comment="" name="libLoadCVMapEncoding" prompt="libLoadCVMapEncoding?" promptNeeded="false" type="id_String" value="ISO-8859-15"/>
+  <contextParameter xmi:id="_og1-A-m_EeqthY-ZP78g2A" comment="" name="libLoadCVMapName" prompt="libLoadCVMapName?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_og1-BOm_EeqthY-ZP78g2A" comment="" name="libLoadCVFile" prompt="libLoadCVFile?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_og1-Bem_EeqthY-ZP78g2A" comment="" name="libLoadCVShowMappingTable" prompt="libLoadCVShowMappingTable?" promptNeeded="false" type="id_Boolean" value="false"/>
+  <contextParameter xmi:id="_og1-Bum_EeqthY-ZP78g2A" comment="" name="libLoadCVErrorOnEmptyMappingTable" prompt="libLoadCVErrorOnEmptyMappingTable?" promptNeeded="false" type="id_Boolean" value="true"/>
+  <contextParameter xmi:id="_og1-B-m_EeqthY-ZP78g2A" comment="" name="libLoadCVSmartMatching" prompt="libLoadCVSmartMatching?" promptNeeded="false" type="id_Boolean" value="true"/>
+  <contextParameter xmi:id="_og1-COm_EeqthY-ZP78g2A" comment="" name="libLoadCVErrorOnInvalidTarget" prompt="libLoadCVErrorOnInvalidTarget?" promptNeeded="false" type="id_Boolean" value="true"/>
+  <contextParameter xmi:id="_og1-Cem_EeqthY-ZP78g2A" comment="" name="libLoadCVErrorOnDuplicateSource" prompt="libLoadCVErrorOnDuplicateSource?" promptNeeded="false" type="id_Boolean" value="false"/>
+</talendfile:ContextType>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" confirmationNeeded="false" name="Default">
+  <contextParameter comment="Driver utilisé pour la connexion" name="dbSource_DriverJar" prompt="dbSource_DriverJar?" promptNeeded="false" type="id_String" value="C:\\Talend\\TOS_DI-Win32-r110020-V5.4.0\\lib\\java\\sqljdbc4.jar"/>
+  <contextParameter comment="Fichier de mapping" name="dbSource_MappingFile" prompt="dbSource_MappingFile?" promptNeeded="false" type="id_String" value="id_MSSQL"/>
+  <contextParameter comment="Utilisateur" name="dbSource_Login" prompt="dbSource_Login?" promptNeeded="false" type="id_String" value="EMAGNUS_31"/>
+  <contextParameter comment="Mot de passe" name="dbSource_Password" prompt="dbSource_Password?" promptNeeded="false" type="id_Password" value="cBsDO/Kn/3n096uhdGeE6g=="/>
+  <contextParameter comment="Schéma utilisé pour la connexion" name="dbSource_Schema" prompt="dbSource_Schema?" promptNeeded="false" type="id_String" value="dbo"/>
+  <contextParameter comment="Nom de la classe utilisé pour la connexion" name="dbSource_ClassName" prompt="dbSource_ClassName?" promptNeeded="false" type="id_String" value="com.microsoft.sqlserver.jdbc.SQLServerDriver"/>
+  <contextParameter comment="URL de connexion" name="dbSource_JdbcUrl" prompt="dbSource_JdbcUrl?" promptNeeded="false" type="id_String" value="jdbc:sqlserver://localhost:1692;databasename=EMAGNUS_31 "/>
+  <contextParameter comment="Nom de la connexion partagée" name="dbSource_ConnectionName" prompt="dbSource_ConnectionName?" promptNeeded="false" type="id_String" value="null"/>
+</talendfile:ContextType>

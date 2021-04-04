@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_B3Q74fqmEeOF0d40HMxIag" label="FRAMEWORK" description="" language="java" technicalLabel="FRAMEWORK" local="true" author="_B5OqwPqmEeOF0d40HMxIag" productVersion="Talend Open Studio for Data Integration-7.3.1.20200219_1130" itemsRelationVersion="1.3">
+    <componentsSettings xmi:id="_FKws8PqmEeOF0d40HMxIag" name="DI|tGroovyFile" family="Custom_Code"/>
+    <componentsSettings xmi:id="_FKws8fqmEeOF0d40HMxIag" name="DI|tSortIn" family="Technical"/>
+    <componentsSettings xmi:id="_FKws8vqmEeOF0d40HMxIag" name="DI|tOpenbravoERPInput" family="Business/Open Bravo"/>
+    <componentsSettings xmi:id="_FKws8_qmEeOF0d40HMxIag" name="DI|tPaloCheckElements" family="Business_Intelligence/OLAP_Cube/Palo"/>
+    <componentsSettings xmi:id="_FKws9PqmEeOF0d40HMxIag" name="DI|tCreateTable" family="Databases"/>
+    <componentsSettings xmi:id="_FKws9fqmEeOF0d40HMxIag" name="DI|tWriteJSONFieldIn" family="XML"/>
+    <componentsSettings xmi:id="_FKws9vqmEeOF0d40HMxIag" name="DI|tGreenplumConnection" family="Databases/Greenplum"/>
+    <componentsSettings xmi:id="_FKws9_qmEeOF0d40HMxIag" name="DI|tGreenplumConnection" family="ELT/Connections"/>
+    <componentsSettings xmi:id="_FKws-PqmEeOF0d40HMxIag" name="DI|tFileOutputMSPositional" family="File/Output"/>
+    <componentsSettings xmi:id="_FKws-fqmEeOF0d40HMxIag" name="DI|tELTMSSqlInput" family="ELT/Map/MSSql"/>
+    <componentsSettings xmi:id="_FKws-vqmEeOF0d40HMxIag" name="DI|tELTTeradataInput" family="ELT/Map/Teradata"/>
+    <componentsSettings xmi:id="_FKws-_qmEeOF0d40HMxIag" name="DI|tAmazonMysqlOutput" family="Databases/AmazonRDS/MySQL"/>
+    <componentsSettings xmi:id="_FKws_PqmEeOF0d40HMxIag" name="DI|tAmazonMysqlOutput" family="Cloud/AmazonRDS/MySQL"/>
+    <componentsSettings xmi:id="_FKws_fqmEeOF0d40HMxIag" name="DI|tJDBCColumnList" family="Databases/DB_JDBC"/>
+    <componentsSettings xmi:id="_FKws_vqmEeOF0d40HMxIag" name="DI|tSybaseClose" family="Databases/Sybase"/>
+    <componentsSettings xmi:id="_FKws__qmEeOF0d40HMxIag" name="DI|tCombinedSQLInput" family="ELT/Combined SQL"/>
+    <componentsSettings xmi:id="_FKwtAPqmEeOF0d40HMxIag" name="tELTJDBCInput" family="ELT/Map/DB_JDBC"/>
+    <componentsSettings xmi:id="_FKwtAfqmEeOF0d40HMxIag" name="DI|tSQLiteRow" family="Databases/SQLite"/>
+    <componentsSettings xmi:id="_FKwtAvqmEeOF0d40HMxIag" name="DI|tMarketoOutput" family="Business/Marketo"/>
+    <componentsSettings xmi:id="_FKwtA_qmEeOF0d40HMxIag" name="DI|tMarketoOutput" family="Cloud/Marketo"/>
+    <componentsSettings xmi:id="_FKwtBPqmEeOF0d40HMxIag" name="DI|tTeradataFastExport" family="Databases/Teradata"/>
+    <componentsSettings xmi:id="_FKwtBfqmEeOF0d40HMxIag" name="DI|tChangeFileEncoding" family="File/Management"/>
+    <componentsSettings xmi:id="_FKwtBvqmEeOF0d40HMxIag" name="DI|tChangeFileEncoding" family="Data_Quality"/>
+    <componentsSettings xmi:id="_FKxUAPqmEeOF0d40HMxIag" name="DI|tFileInputDelimited" family="File/Input"/>
+    <componentsSettings xmi:id="_FKxUAfqmEeOF0d40HMxIag" name="DI|tSalesforceGetServerTimestamp" family="Business/Salesforce"/>
+    <componentsSettings xmi:id="_FKxUAvqmEeOF0d40HMxIag" name="DI|tSalesforceGetServerTimestamp" family="Cloud/Salesforce"/>
+    <componentsSettings xmi:id="_FKxUA_qmEeOF0d40HMxIag" name="DI|tAS400LastInsertId" family="Databases/AS400"/>
+    <componentsSettings xmi:id="_FKxUBPqmEeOF0d40HMxIag" name="DI|tAccessBulkExec" family="Databases/Access"/>
+    <componentsSettings xmi:id="_FKxUBfqmEeOF0d40HMxIag" name="DI|tNetezzaRow" family="Databases/Netezza"/>
+    <componentsSettings xmi:id="_FKxUBvqmEeOF0d40HMxIag" name="tDBSQLRow" family="Databases/DB_Generic"/>
+    <componentsSettings xmi:id="_FKxUB_qmEeOF0d40HMxIag" name="DI|tEXAOutput" family="Databases/EXASolution"/>
+    <componentsSettings xmi:id="_FKxUCPqmEeOF0d40HMxIag" name="DI|tMysqlColumnList" family="Databases/MySQL"/>
+    <componentsSettings xmi:id="_FKxUCfqmEeOF0d40HMxIag" name="DI|tPostgresqlOutputBulkExec" family="Databases/PostgreSQL"/>
+    <componentsSettings xmi:id="_FKxUCvqmEeOF0d40HMxIag" name="DI|tDB2Row" family="Databases/DB2"/>
+    <componentsSettings xmi:id="_FKxUC_qmEeOF0d40HMxIag" name="tNamedBufferOutput" family="Misc"/>
+    <componentsSettings xmi:id="_FKxUDPqmEeOF0d40HMxIag" name="DI|tOracleClose" family="Databases/Oracle"/>
+    <componentsSettings xmi:id="_FKxUDfqmEeOF0d40HMxIag" name="DI|tS3BucketCreate" family="Cloud/AmazonS3"/>
+    <componentsSettings xmi:id="_FKxUDvqmEeOF0d40HMxIag" name="DI|tELTSybaseInput" family="ELT/Map/Sybase"/>
+    <componentsSettings xmi:id="_FKxUD_qmEeOF0d40HMxIag" name="DI|tMSSqlInput" family="Databases/MS_SQL_Server"/>
+    <componentsSettings xmi:id="_FKxUEPqmEeOF0d40HMxIag" name="DI|tELTMysqlMap" family="ELT/Map/MySQL"/>
+    <componentsSettings xmi:id="_FKxUEfqmEeOF0d40HMxIag" name="DI|tXMLRPCInput" family="Internet"/>
+    <componentsSettings xmi:id="_FKxUEvqmEeOF0d40HMxIag" name="DI|tHashInput" hidden="true" family="Technical"/>
+    <componentsSettings xmi:id="_FKxUE_qmEeOF0d40HMxIag" name="DI|tDB2SCDELT" family="Business_Intelligence/DB_SCD"/>
+    <componentsSettings xmi:id="_FKxUFPqmEeOF0d40HMxIag" name="DI|tSPSSInput" family="Business_Intelligence/SPSS"/>
+    <componentsSettings xmi:id="_FKxUFfqmEeOF0d40HMxIag" name="tSAPOutput" family="Business/SAP"/>
+    <componentsSettings xmi:id="_FKx7EPqmEeOF0d40HMxIag" name="DI|tInterbaseRollback" family="Databases/Interbase"/>
+    <componentsSettings xmi:id="_FKx7EfqmEeOF0d40HMxIag" name="DI|tSugarCRMInput" family="Business/SugarCRM"/>
+    <componentsSettings xmi:id="_FKx7EvqmEeOF0d40HMxIag" name="DI|tSugarCRMInput" family="Cloud/SugarCRM"/>
+    <componentsSettings xmi:id="_FKx7E_qmEeOF0d40HMxIag" name="DI|tVerticaConnection" family="Databases/Vertica"/>
+    <componentsSettings xmi:id="_FKx7FPqmEeOF0d40HMxIag" name="DI|tELTPostgresqlOutput" family="ELT/Map/PostgreSQL"/>
+    <componentsSettings xmi:id="_FKx7FfqmEeOF0d40HMxIag" name="DI|tELTGreenplumMap" family="ELT/Map/Greenplum"/>
+    <componentsSettings xmi:id="_FKx7FvqmEeOF0d40HMxIag" name="tMDMInput" family="Talend MDM"/>
+    <componentsSettings xmi:id="_FKx7F_qmEeOF0d40HMxIag" name="DI|tExtractXMLField" family="Processing/Fields"/>
+    <componentsSettings xmi:id="_FKx7GPqmEeOF0d40HMxIag" name="DI|tStatCatcher" family="Logs_Errors"/>
+    <componentsSettings xmi:id="_FKx7GfqmEeOF0d40HMxIag" name="DI|tVectorWiseOutput" family="Databases/VectorWise"/>
+    <componentsSettings xmi:id="_FKx7GvqmEeOF0d40HMxIag" name="DI|tFTPFileList" family="Internet/FTP"/>
+    <componentsSettings xmi:id="_FKx7G_qmEeOF0d40HMxIag" name="DI|tSetEnv" family="System"/>
+    <componentsSettings xmi:id="_FKx7HPqmEeOF0d40HMxIag" name="DI|tELTOracleOutput" family="ELT/Map/Oracle"/>
+    <componentsSettings xmi:id="_FKx7HfqmEeOF0d40HMxIag" name="DI|tParAccelOutputBulkExec" family="Databases/ParAccel"/>
+    <componentsSettings xmi:id="_FKx7HvqmEeOF0d40HMxIag" name="DI|tInformixBulkExec" family="Databases/Informix"/>
+    <componentsSettings xmi:id="_FKyiIPqmEeOF0d40HMxIag" name="DI|tPostgresPlusSCD" family="Databases/PostgresPlus"/>
+    <componentsSettings xmi:id="_FKyiIfqmEeOF0d40HMxIag" name="DI|tMaxDBOutput" family="Databases/MaxDB"/>
+    <componentsSettings xmi:id="_FKyiIvqmEeOF0d40HMxIag" name="DI|tRunJob" family="Orchestration"/>
+    <componentsSettings xmi:id="_FKyiI_qmEeOF0d40HMxIag" name="DI|tIngresConnection" family="Databases/Ingres"/>
+    <componentsSettings xmi:id="_FKyiJPqmEeOF0d40HMxIag" name="DI|tGSConnection" family="Big Data/Google Storage"/>
+    <componentsSettings xmi:id="_FKyiJfqmEeOF0d40HMxIag" name="DI|tGSConnection" family="Cloud/Google Storage"/>
+    <componentsSettings xmi:id="_FKyiJvqmEeOF0d40HMxIag" name="DI|tSCPFileList" family="Internet/SCP"/>
+    <componentsSettings xmi:id="_FKyiJ_qmEeOF0d40HMxIag" name="tLog4JCatch" family="Logs_Errors/Log4J"/>
+    <componentsSettings xmi:id="_FKzJMPqmEeOF0d40HMxIag" name="DI|tOleDbRow" family="Databases/OleDb"/>
+    <componentsSettings xmi:id="_FKzJMfqmEeOF0d40HMxIag" name="DI|tLDAPConnection" family="Databases/LDAP"/>
+    <componentsSettings xmi:id="_FKzJMvqmEeOF0d40HMxIag" name="DI|tDotNETRow" family="DotNET"/>
+    <componentsSettings xmi:id="_FKzJM_qmEeOF0d40HMxIag" name="DI|tRedshiftRow" family="Databases/Redshift"/>
+    <componentsSettings xmi:id="_FKzJNPqmEeOF0d40HMxIag" name="DI|tJavaDBOutput" family="Databases/JavaDB"/>
+    <componentsSettings xmi:id="_FKzwQPqmEeOF0d40HMxIag" name="DI|tHiveConnection" family="Databases/Hive"/>
+    <componentsSettings xmi:id="_FKzwQfqmEeOF0d40HMxIag" name="DI|tHiveConnection" family="Big Data/Hive"/>
+    <componentsSettings xmi:id="_FKzwQvqmEeOF0d40HMxIag" name="DI|tFirebirdCommit" family="Databases/FireBird"/>
+    <componentsSettings xmi:id="_FKzwQ_qmEeOF0d40HMxIag" name="DI|tELTNetezzaMap" family="ELT/Map/Netezza"/>
+    <componentsSettings xmi:id="_FKzwRPqmEeOF0d40HMxIag" name="DI|tELTNode" hidden="true" family="ELT"/>
+    <componentsSettings xmi:id="_FKzwRfqmEeOF0d40HMxIag" name="DI|tMomMessageIdList" family="Internet/MOM and JMS"/>
+    <componentsSettings xmi:id="_FK0XUPqmEeOF0d40HMxIag" name="tHL7Input" family="Business/Healthcare"/>
+    <componentsSettings xmi:id="_FK0XUfqmEeOF0d40HMxIag" name="tHL7Input" family="Unstructured/HL7"/>
+    <componentsSettings xmi:id="_FK0XUvqmEeOF0d40HMxIag" name="DI|tEXistList" family="Databases/eXist"/>
+    <componentsSettings xmi:id="_FK0XU_qmEeOF0d40HMxIag" name="DI|tFuzzyMatch" family="Data_Quality/Matching"/>
+    <componentsSettings xmi:id="_FK0-YPqmEeOF0d40HMxIag" name="DI|tReplace" family="Processing"/>
+    <componentsSettings xmi:id="_FK0-YfqmEeOF0d40HMxIag" name="DI|tMicrosoftCrmOutput" family="Business/Microsoft_CRM"/>
+    <componentsSettings xmi:id="_FK0-YvqmEeOF0d40HMxIag" name="DI|tAmazonOracleCommit" family="Cloud/AmazonRDS/Oracle"/>
+    <componentsSettings xmi:id="_FK1lcPqmEeOF0d40HMxIag" name="DI|tRESTClient" family="ESB/REST"/>
+    <componentsSettings xmi:id="_FK1lcfqmEeOF0d40HMxIag" name="DI|tSageX3Output" family="Business/SageX3"/>
+    <componentsSettings xmi:id="_FK1lcvqmEeOF0d40HMxIag" name="DI|tSQLTemplateFilterRows" family="ELT/SQLTemplate"/>
+    <componentsSettings xmi:id="_FK2MgPqmEeOF0d40HMxIag" name="DI|tCloudStart" family="Cloud"/>
+    <componentsSettings xmi:id="_FK2zkPqmEeOF0d40HMxIag" name="DI|tAmazonOracleInput" family="Databases/AmazonRDS/Oracle"/>
+    <componentsSettings xmi:id="_FK2zkfqmEeOF0d40HMxIag" name="tAlfrescoOutput" family="Business/Alfresco"/>
+    <componentsSettings xmi:id="_FK2zkvqmEeOF0d40HMxIag" name="DI|tSasOutput" family="Databases/Sas"/>
+    <componentsSettings xmi:id="_FK2zk_qmEeOF0d40HMxIag" name="DI|tHSQLDbOutput" family="Databases/HSQLDb"/>
+    <componentsSettings xmi:id="_FK3aoPqmEeOF0d40HMxIag" name="DI|tMSAXInput" family="Business/Microsoft_AX"/>
+    <componentsSettings xmi:id="_FK3aofqmEeOF0d40HMxIag" name="DI|tArray" hidden="true" family="Technical"/>
+    <componentsSettings xmi:id="_FK3aovqmEeOF0d40HMxIag" name="DI|tEDIFACTtoXML" family="Unstructured/EDIFACT"/>
+    <componentsSettings xmi:id="_FK4owPqmEeOF0d40HMxIag" name="DI|tHashOutput" hidden="true" family="Technical"/>
+    <componentsSettings xmi:id="_FK4owfqmEeOF0d40HMxIag" name="DI|tArrayIn" hidden="true" family="Technical"/>
+    <componentsSettings xmi:id="_FK5P0PqmEeOF0d40HMxIag" name="DI|tNamedPipeOpen" family="File/NamedPipe"/>
+    <componentsSettings xmi:id="_FK5P0fqmEeOF0d40HMxIag" name="DI|tJasperOutput" family="Business_Intelligence/Jasper"/>
+    <componentsSettings xmi:id="_FK524PqmEeOF0d40HMxIag" name="DI|tBarChart" family="Business_Intelligence/Charts"/>
+    <componentsSettings xmi:id="_FK524fqmEeOF0d40HMxIag" name="DI|tBonitaInstantiateProcess" family="Business/Bonita"/>
+    <componentsSettings xmi:id="_FK6d8PqmEeOF0d40HMxIag" name="DI|tCentricCRMInput" family="Business/CentricCRM"/>
+    <componentsSettings xmi:id="_FK86MPqmEeOF0d40HMxIag" name="DI|tMondrianInput" family="Business_Intelligence/OLAP_Cube/Mondrian"/>
+    <componentsSettings xmi:id="_FK9hQPqmEeOF0d40HMxIag" name="DI|tVtigerCRMInput" family="Business/VtigerCRM"/>
+    <componentsSettings xmi:id="_FK-IUPqmEeOF0d40HMxIag" name="DI|tESBConsumer" family="ESB/Web Services"/>
+    <componentsSettings xmi:id="_FK-vYPqmEeOF0d40HMxIag" name="DI|tExtractRegexFields" family="Data_Quality/Matching/Pattern matching"/>
+    <migrationTask xmi:id="_2UmwQK5gEeqCmMYNxfo1sw" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_B5OqwPqmEeOF0d40HMxIag" login="test@talend.com" password="D41D8CD98F00B204E9800998ECF8427E"/>
+  <TalendProperties:User xmi:id="_2V1fUK5gEeqCmMYNxfo1sw" login="user@talend.com" password="D41D8CD98F00B204E9800998ECF8427E"/>
+</xmi:XMI>

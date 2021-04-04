@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ProcessType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" defaultContext="Default" screenshot="iVBORw0KGgoAAAANSUhEUgAABH8AAAHDCAIAAAAyeSF8AAAgTUlEQVR4nO3dC9DlZV0H8EdLLafSmqabzXSZyoqsqZlmGmrSCYdmKmeKysa0ZMBdUGE1tiTRQtSiUnRhve0K6KLIKiyILCtGW7qCioCagImwgER2MS2yu2PbOe/lXJ7zP5f38v+d5zzv5zPfcXZf3/c5//P7/w8833N5SSmlY22yvvWtb33rW9/61re+9a1vfet3F29vaQAAAHq0LwAAgAjaFwAAQATtCwAAIIL2BQAAEEH7AgAAiKB9AQAARNC+AAAAImhfAAAAEbQvAACACNoXAABABO0LAAAggvYFAAAQQfsCAACIoH0BAABE0L4AAAAiaF8AAAARtC8AAIAI2hcAAEAE7QsAACCC9gUAABBB+wIAAIigfQEAAETQvgAAACJoXwAAABG0LwAAgAjaFwAAQATtCwAAIIL2BQAAEEH7AgAAiKB9AQAAREgdrd7AF245R0RERERkszLLBrfV/a31rb/+xdtbetnSI+RWEREREZGNZ8YCBmXSvkRERERkYbK8t1TAWFDal4iIiIgsTHp7SwWMRaR9iYiIiMjCZHBvqYCxcLQvEREREVmYZHtLBYzFon2JiIiIyMJkdG+pgLFAtC8RERERWZg07i0VMBaF9iUiIiIiC5Nxe0sFjIWgfYmIiIjIwmTC3lIBo3zal4iIiIgsTCbvLRUwCqd9iYiIiMjCZOreUgGjZNqXiIiIiCxMOnvLWdL2FhfWR/sSERERkaqifVEs7UtEREREqor2RbG0LxERERGpKtoXxdK+RERERKSqaF8US/sSERERkaqifVEs7UtEREREqor2RbG0LxERERGpKtoXxdK+RERERKSqaF8US/sSERERkaqifVEs7UtEREREqor2RbG0LxERERGpKtoXxdK+RERERKSqaF8US/sSERERkaqifVEs7UtEREREqor2RbG0LxERERGpKtoXxdK+RERERKSqaF8US/sSERERkaqifVEs7UtEREREqor2RbG0LxERERGpKtoXxUodrd6A9iUiIiIikWm7fbW9f7Z+xet77UtEREREqorXviiW9iUiIiIiVUX7oljal4iIiIhUFe2LYmlfIiIiIlJVtC+KpX2JiIiISFXRviiW9iUiIiIiVUX7oljal4iIiIhUFe2LYmlfIiIiIlJV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AAAggvYFAAAQQfsCAACIoH0BAABE0L4AAAAiaF8AAAARtC8AAIAI2hcAAECE1NH2DVjf+ta3vvWtb33rW9/61re+9b32BQAAEEH7AgAAiKB9AQAARNC+AAAAImhfAAAAEbQvAACACNoXAABABO0LAAAggvYFAAAQQfsCAACIoH0BAABE0L4AAAAiaF8AAAARtC8AAIAI2hcAAEAE7QsAACCC9gUAABBB+wIAAIigfQEAAETQvgAAACJoXwAAABG0LwAAgAjaFwAAQATtCwAAIIL2BQAAEEH7AgAAiKB9AQAARNC+AAAAImhfAAAAEbQvAACACNoXAABAhNTR9g1Y3/rWt771rW9961vf+ta3vvW99gUAABBB+wIAAIigfQEAAETQvgAAACJoXwAAABG0LwAAgAjaFwAAQATtCwAAIIL2BQAAEEH7AgAAiKB9AQAARNC+AAAAImhfAAAAEbQvAACACNoXAABABO0LAAAggvYFAAAQQfsCAACIoH0BAABE0L4AAAAiaF8AAAARtC8AAIAI2hcAAEAE7QsAACCC9gUAABBB+wIAAIigfQEAAETQvgAAACJoXwAAABG0LwAAgAjaFwAAQITU0fYNWN/61re+9a1vfetb3/rWt771vfYFAAAQQfsCAACIoH0BAABE0L4AAAAiaF8AAAARtC8AAIAI2hcAAEAE7QsAACCC9gUAABBB+wIAAIigfQEAAETQvgAAACJoXwAAABG0LwAAgAjaFwAAQATtCwAAIIL2BQAAEEH7AgAAiKB9AQAARNC+AAAAImhfAAAAEbQvAACACNoXAABABO0LAAAggvYFAAAQQfsCAACIoH0BAABE0L4AAAAiaF8AAAARtC8AAIAI2hcAAECE1NH2DVjf+ta3vvWtb33rW9/61re+9b32BQAAEEH7AgAAiKB9AQAARNC+AAAAImhfAAAAEbQvAACACNoXAABABO0LAAAggvYFAAAQQfsCAACIoH0BAABE0L4AAAAiaF8AAAARtC8AAIAI2hcAAEAE7QsAACCC9gUAABBB+wIAAIigfQEAAETQvgAAACJoXwAAABG0LwAAgAjaFwAAQATtCwAAIIL2BQAAEEH7AgAAiKB9AQAARNC+AAAAImhfAAAAEbQvAACACNoXAABAhNTR9g1Y3/rWt771rW9961vf+ta3vvW99gUAABBB+wIAAIigfQEAAETQvgAAACJoXwAAABG0LwAAgAjaFwAAQATtCwAAIIL2BQAAEEH7AgAAiKB9AQAARNC+AAAAImhfAAAAEbQvAACACNoXAABABO0LAAAggvYFAAAQQfsCAACIoH0BAABE0L4AAAAiaF8AAAARtC8AAIAI2hcAAEAE7QsAACCC9gUAABBB+wIAAIigfQEAAETQvgAAACJoXwAAABG0LwAAgAjaFwAAQITU0fYNWN/61re+9a1vfetb3/rWt771vfYFAAAQQfsCAACI8P/vTWb77zfNEAAAAABJRU5ErkJggg==">
+  <context confirmationNeeded="false" name="Default">
+    <contextParameter comment="Nom de la classe utilisé pour la connexion" name="dbCible_ClassName" prompt="dbCible_ClassName?" promptNeeded="false" repositoryContextId="_M1TesC6wEeWABbuGwP4-Mw" type="id_String" value="org.sqlite.JDBC"/>
+    <contextParameter comment="Nom de la connexion partagée" name="dbCible_ConnectionName" prompt="dbCible_ConnectionName?" promptNeeded="false" repositoryContextId="_M1TesC6wEeWABbuGwP4-Mw" type="id_String" value="null"/>
+    <contextParameter comment="Répertoire de la base de données cible" name="dbCible_Directory" prompt="dbCible_Directory?" promptNeeded="false" repositoryContextId="_M1TesC6wEeWABbuGwP4-Mw" type="id_String" value="null"/>
+    <contextParameter comment="Driver utilisé pour la connexion" name="dbCible_DriverJar" prompt="dbCible_DriverJar?" promptNeeded="false" repositoryContextId="_M1TesC6wEeWABbuGwP4-Mw" type="id_String" value="C:\\Talend\\TOS_DI-Win32-r110020-V5.4.0\\lib\\java\\sqlite-jdbc-3.7.2.jar"/>
+    <contextParameter comment="URL de connexion" name="dbCible_JdbcUrl" prompt="dbCible_JdbcUrl?" promptNeeded="false" repositoryContextId="_M1TesC6wEeWABbuGwP4-Mw" type="id_String" value="jdbc:sqlite:/d:/ihm/gp/mggp vega 2 tamgp 2.00.01.06/bin/tmptampon/tampon.sqlite"/>
+    <contextParameter comment="Utilisateur" name="dbCible_Login" prompt="dbCible_Login?" promptNeeded="false" repositoryContextId="_M1TesC6wEeWABbuGwP4-Mw" type="id_String" value=""/>
+    <contextParameter comment="Fichier de mapping" name="dbCible_MappingFile" prompt="dbCible_MappingFile?" promptNeeded="false" repositoryContextId="_M1TesC6wEeWABbuGwP4-Mw" type="id_String" value="sqlite_id"/>
+    <contextParameter comment="Chemin d'accès à la base de donneés cible originale (vide)" name="dbCible_OriginalFile" prompt="dbCible_OriginalFile?" promptNeeded="false" repositoryContextId="_M1TesC6wEeWABbuGwP4-Mw" type="id_String" value="null"/>
+    <contextParameter comment="Mot de passe" name="dbCible_Password" prompt="dbCible_Password?" promptNeeded="false" repositoryContextId="_M1TesC6wEeWABbuGwP4-Mw" type="id_Password" value=""/>
+    <contextParameter comment="Schéma utilisé pour la connexion" name="dbCible_Schema" prompt="dbCible_Schema?" promptNeeded="false" repositoryContextId="_M1TesC6wEeWABbuGwP4-Mw" type="id_String" value=""/>
+    <contextParameter comment="Nom de la classe utilisé pour la connexion" name="dbSource_ClassName" prompt="dbSource_ClassName?" promptNeeded="false" repositoryContextId="_05zH0C6vEeWABbuGwP4-Mw" type="id_String" value="com.microsoft.sqlserver.jdbc.SQLServerDriver"/>
+    <contextParameter comment="Nom de la connexion partagée" name="dbSource_ConnectionName" prompt="dbSource_ConnectionName?" promptNeeded="false" repositoryContextId="_05zH0C6vEeWABbuGwP4-Mw" type="id_String" value="null"/>
+    <contextParameter comment="Driver utilisé pour la connexion" name="dbSource_DriverJar" prompt="dbSource_DriverJar?" promptNeeded="false" repositoryContextId="_05zH0C6vEeWABbuGwP4-Mw" type="id_String" value="C:\\Talend\\TOS_DI-Win32-r110020-V5.4.0\\lib\\java\\sqljdbc4.jar"/>
+    <contextParameter comment="URL de connexion" name="dbSource_JdbcUrl" prompt="dbSource_JdbcUrl?" promptNeeded="false" repositoryContextId="_05zH0C6vEeWABbuGwP4-Mw" type="id_String" value="jdbc:sqlserver://localhost:1692;databasename=EMAGNUS_31 "/>
+    <contextParameter comment="Utilisateur" name="dbSource_Login" prompt="dbSource_Login?" promptNeeded="false" repositoryContextId="_05zH0C6vEeWABbuGwP4-Mw" type="id_String" value="EMAGNUS_31"/>
+    <contextParameter comment="Fichier de mapping" name="dbSource_MappingFile" prompt="dbSource_MappingFile?" promptNeeded="false" repositoryContextId="_05zH0C6vEeWABbuGwP4-Mw" type="id_String" value="id_MSSQL"/>
+    <contextParameter comment="Mot de passe" name="dbSource_Password" prompt="dbSource_Password?" promptNeeded="false" repositoryContextId="_05zH0C6vEeWABbuGwP4-Mw" type="id_Password" value="cBsDO/Kn/3n096uhdGeE6g=="/>
+    <contextParameter comment="Schéma utilisé pour la connexion" name="dbSource_Schema" prompt="dbSource_Schema?" promptNeeded="false" repositoryContextId="_05zH0C6vEeWABbuGwP4-Mw" type="id_String" value="dbo"/>
+    <contextParameter comment="Nom du job qui sera recherché dans le job jEntryReferencer et qui sera exécuté" name="launcher_NomJob" prompt="launcher_NomJob?" promptNeeded="false" repositoryContextId="_RQO7wBe7Ed-5l4LCrtxZGQ" type="id_String" value="&quot;jTemplate&quot;"/>
+    <contextParameter comment="Statut du job" name="launcher_Status" prompt="launcher_Status?" promptNeeded="false" repositoryContextId="_RQO7wBe7Ed-5l4LCrtxZGQ" type="id_Integer" value="0"/>
+    <contextParameter comment="Version du job" name="launcher_VersionJob" prompt="launcher_VersionJob?" promptNeeded="false" repositoryContextId="_RQO7wBe7Ed-5l4LCrtxZGQ" type="id_String" value="&quot;0.1&quot;"/>
+    <contextParameter comment="Taille de la mémoire pour le tri externe" name="externalSortBufferSize" prompt="externalSortBufferSize?" promptNeeded="false" repositoryContextId="_cCcaEDSyEeK0O4kgL4ajXQ" type="id_Integer" value="1000000"/>
+    <contextParameter comment="Personnalise la taille de la mémoire utilisée pour stocker temporairement les données" name="flushOnRow" prompt="flushOnRow?" promptNeeded="false" repositoryContextId="_cCcaEDSyEeK0O4kgL4ajXQ" type="id_Integer" value="1000"/>
+    <contextParameter comment="Personnalise le nombre de lignes dans chaque fichier en sortie" name="splitEvery" prompt="splitEvery?" promptNeeded="false" repositoryContextId="_cCcaEDSyEeK0O4kgL4ajXQ" type="id_Integer" value="10000"/>
+    <contextParameter comment="Chemin d'accès au fichier de configuration de la chaine TOS" name="configFile" prompt="configFile?" promptNeeded="false" repositoryContextId="_Iom-oBe7Ed-5l4LCrtxZGQ" type="id_String" value="D:/ihm/framework/bin/config/extraction.properties"/>
+    <contextParameter comment="Chemin d'accès au fichier de connexion &quot;Connexion.ini&quot;" name="connectionFile" prompt="connectionFile?" promptNeeded="false" repositoryContextId="_Iom-oBe7Ed-5l4LCrtxZGQ" type="id_String" value="D:/ihm/framework/configuration/connexion.ini"/>
+    <contextParameter comment="Chemin d'accès au journal de debogage" name="debugLogFile" prompt="debugLogFile?" promptNeeded="false" repositoryContextId="_Iom-oBe7Ed-5l4LCrtxZGQ" type="id_String" value="D:/ihm/framework/bin/log/debug.log"/>
+    <contextParameter comment="Chemin d'accès au fichier Excel de configuration de l'extraction" name="emptyExcelConfigFile" prompt="emptyExcelConfigFile?" promptNeeded="false" repositoryContextId="_Iom-oBe7Ed-5l4LCrtxZGQ" type="id_String" value="D:/ihm/framework/bin/config/configuration.xlsx"/>
+    <contextParameter comment="Chemin d'accès au journal d'erreur" name="errorLogFile" prompt="errorLogFile?" promptNeeded="false" repositoryContextId="_Iom-oBe7Ed-5l4LCrtxZGQ" type="id_String" value="D:/ihm/framework/bin//log/error.log"/>
+    <contextParameter comment="Chemin d'accès au fichier de configuration de Log4J" name="log4jFile" prompt="log4jFile?" promptNeeded="false" repositoryContextId="_Iom-oBe7Ed-5l4LCrtxZGQ" type="id_String" value="D:/ihm/framework/bin/config/log4j.xml"/>
+    <contextParameter comment="Répertoire des journaux" name="logDirectory" prompt="logDirectory?" promptNeeded="false" repositoryContextId="_Iom-oBe7Ed-5l4LCrtxZGQ" type="id_String" value="D:/ihm/framework/rapports"/>
+    <contextParameter comment="Répertoire temporaire" name="tempDirectory" prompt="tempDirectory?" promptNeeded="false" repositoryContextId="_Iom-oBe7Ed-5l4LCrtxZGQ" type="id_String" value="D:/ihm/framework/bin/tmp"/>
+    <contextParameter comment="Répertoire de configuration utilisateur" name="userConfigDirectory" prompt="userConfigDirectory?" promptNeeded="false" repositoryContextId="_Iom-oBe7Ed-5l4LCrtxZGQ" type="id_String" value="D:/ihm/framework/configuration"/>
+    <contextParameter comment="Chemin d'accès au fichier Excel utilisateur de configuration de l'extraction" name="userExcelConfigFile" prompt="userExcelConfigFile?" promptNeeded="false" repositoryContextId="_Iom-oBe7Ed-5l4LCrtxZGQ" type="id_String" value="D:/ihm/framework/configuration/configuration.xlsx"/>
+  </context>
+  <parameters>
+    <elementParameter field="TEXT" name="JOB_RUN_VM_ARGUMENTS" value=" -Xms256M -Xmx1024M"/>
+    <elementParameter field="CHECK" name="JOB_RUN_VM_ARGUMENTS_OPTION" value="false"/>
+    <elementParameter field="TEXT" name="SCREEN_OFFSET_X" value="0"/>
+    <elementParameter field="TEXT" name="SCREEN_OFFSET_Y" value="0"/>
+    <elementParameter field="TEXT" name="SCHEMA_OPTIONS" value="none"/>
+    <elementParameter field="TEXT" name="OEM_CUSTOM_ATTRIBUTE" value=""/>
+    <elementParameter field="TEXT" name="HADOOP_APP_PATH" value=""/>
+    <elementParameter field="TEXT" name="JOBID_FOR_OOZIE" value=""/>
+    <elementParameter field="TEXT" name="REPOSITORY_CONNECTION_ID" value=""/>
+    <elementParameter field="TABLE" name="HADOOP_ADVANCED_PROPERTIES"/>
+    <elementParameter field="CHECK" name="IMPLICITCONTEXT_USE_PROJECT_SETTINGS" value="true"/>
+    <elementParameter field="CHECK" name="STATANDLOG_USE_PROJECT_SETTINGS" value="true"/>
+    <elementParameter field="CHECK" name="MULTI_THREAD_EXECATION" value="false"/>
+    <elementParameter field="FILE" name="IMPLICIT_TCONTEXTLOAD_FILE" value="&quot;&quot;"/>
+    <elementParameter field="TEXT" name="FIELDSEPARATOR" value="&quot;&quot;"/>
+    <elementParameter field="CLOSED_LIST" name="DB_VERSION_IMPLICIT_CONTEXT" value=""/>
+    <elementParameter field="CLOSED_LIST" name="LOAD_NEW_VARIABLE" value=""/>
+    <elementParameter field="CLOSED_LIST" name="NOT_LOAD_OLD_VARIABLE" value=""/>
+    <elementParameter field="CHECK" name="DISABLE_WARNINGS" value="false"/>
+    <elementParameter field="CHECK" name="DISABLE_INFO" value="false"/>
+    <elementParameter field="TECHNICAL" name="ENCODING:ENCODING_TYPE" value="ISO-8859-15"/>
+    <elementParameter field="CLOSED_LIST" name="DB_VERSION" value="ORACLE_10"/>
+    <routinesParameter id="_GPlkYC6vEeWm6-vQ0GyZbg" name="DataOperation"/>
+    <routinesParameter id="_GP1cAC6vEeWm6-vQ0GyZbg" name="Mathematical"/>
+    <routinesParameter id="_GP34QC6vEeWm6-vQ0GyZbg" name="Numeric"/>
+    <routinesParameter id="_GP5tcC6vEeWm6-vQ0GyZbg" name="Relational"/>
+    <routinesParameter id="_GP67kC6vEeWm6-vQ0GyZbg" name="StringHandling"/>
+    <routinesParameter id="_GP8wwC6vEeWm6-vQ0GyZbg" name="TalendDataGenerator"/>
+    <routinesParameter id="_GP-l8C6vEeWm6-vQ0GyZbg" name="TalendDate"/>
+    <routinesParameter id="_GQFToC6vEeWm6-vQ0GyZbg" name="TalendString"/>
+    <routinesParameter id="_rrlIwLaJEeOId-3NfJecGQ" name="Libraries"/>
+  </parameters>
+  <node componentName="tRunJob" componentVersion="0.101" offsetLabelX="0" offsetLabelY="0" posX="64" posY="192">
+    <elementParameter field="TEXT" name="UNIQUE_NAME" value="tRunJob_1"/>
+    <elementParameter field="CHECK" name="START" value="true"/>
+    <elementParameter field="CHECK" name="USE_DYNAMIC_JOB" value="false"/>
+    <elementParameter field="TEXT" name="CONTEXT_JOB" value=""/>
+    <elementParameter field="PROCESS_TYPE" name="PROCESS" value="jConfiguration"/>
+    <elementParameter field="TECHNICAL" name="PROCESS:PROCESS_TYPE_PROCESS" value="_v2zfUC7AEeWdEZsoB4MBvg"/>
+    <elementParameter field="TECHNICAL" name="PROCESS:PROCESS_TYPE_VERSION" value="Latest"/>
+    <elementParameter field="TECHNICAL" name="PROCESS:PROCESS_TYPE_CONTEXT" value="Default"/>
+    <elementParameter field="TEXT" name="CONTEXT_NAME" value="Default"/>
+    <elementParameter field="CHECK" name="USE_INDEPENDENT_PROCESS" value="false"/>
+    <elementParameter field="CHECK" name="DIE_ON_CHILD_ERROR" value="true"/>
+    <elementParameter field="CHECK" name="TRANSMIT_WHOLE_CONTEXT" value="false"/>
+    <elementParameter field="TABLE" name="CONTEXTPARAMS"/>
+    <elementParameter field="CHECK" name="PRINT_PARAMETER" value="false"/>
+    <elementParameter field="CHECK" name="TRANSMIT_ORIGINAL_CONTEXT" value="true"/>
+    <elementParameter field="TEXT" name="LABEL" value="__PROCESS__"/>
+    <elementParameter field="TEXT" name="CONNECTION_FORMAT" value="row"/>
+    <elementParameter field="CHECK" name="INFORMATION" value="false"/>
+    <elementParameter field="MEMO" name="COMMENT" value=""/>
+    <elementParameter field="CHECK" name="VALIDATION_RULES" value="false"/>
+    <metadata connector="FLOW" name="tRunJob_1"/>
+  </node>
+  <node componentName="tRunJob" componentVersion="0.101" offsetLabelX="0" offsetLabelY="0" posX="192" posY="192">
+    <elementParameter field="TEXT" name="UNIQUE_NAME" value="tRunJob_2"/>
+    <elementParameter field="CHECK" name="START" value="true"/>
+    <elementParameter field="CHECK" name="USE_DYNAMIC_JOB" value="false"/>
+    <elementParameter field="TEXT" name="CONTEXT_JOB" value=""/>
+    <elementParameter field="PROCESS_TYPE" name="PROCESS" value="jCorrespondance"/>
+    <elementParameter field="TECHNICAL" name="PROCESS:PROCESS_TYPE_PROCESS" value="_HJvZ4LboEeKzVZhpe7ymNA"/>
+    <elementParameter field="TECHNICAL" name="PROCESS:PROCESS_TYPE_VERSION" value="Latest"/>
+    <elementParameter field="TECHNICAL" name="PROCESS:PROCESS_TYPE_CONTEXT" value="Default"/>
+    <elementParameter field="TEXT" name="CONTEXT_NAME" value="Default"/>
+    <elementParameter field="CHECK" name="USE_INDEPENDENT_PROCESS" value="false"/>
+    <elementParameter field="CHECK" name="DIE_ON_CHILD_ERROR" value="true"/>
+    <elementParameter field="CHECK" name="TRANSMIT_WHOLE_CONTEXT" value="false"/>
+    <elementParameter field="TABLE" name="CONTEXTPARAMS"/>
+    <elementParameter field="CHECK" name="PRINT_PARAMETER" value="false"/>
+    <elementParameter field="CHECK" name="TRANSMIT_ORIGINAL_CONTEXT" value="true"/>
+    <elementParameter field="TEXT" name="LABEL" value="__PROCESS__"/>
+    <elementParameter field="TEXT" name="CONNECTION_FORMAT" value="row"/>
+    <elementParameter field="CHECK" name="INFORMATION" value="false"/>
+    <elementParameter field="MEMO" name="COMMENT" value=""/>
+    <elementParameter field="CHECK" name="VALIDATION_RULES" value="false"/>
+    <metadata connector="FLOW" name="tRunJob_2"/>
+  </node>
+  <node componentName="tRunJob" componentVersion="0.101" offsetLabelX="0" offsetLabelY="0" posX="320" posY="192">
+    <elementParameter field="TEXT" name="UNIQUE_NAME" value="tRunJob_3"/>
+    <elementParameter field="CHECK" name="START" value="true"/>
+    <elementParameter field="CHECK" name="USE_DYNAMIC_JOB" value="false"/>
+    <elementParameter field="TEXT" name="CONTEXT_JOB" value=""/>
+    <elementParameter field="PROCESS_TYPE" name="PROCESS" value="jExtraction"/>
+    <elementParameter field="TECHNICAL" name="PROCESS:PROCESS_TYPE_PROCESS" value="_ffqCUCcoEeGp-e1hD0OIwA"/>
+    <elementParameter field="TECHNICAL" name="PROCESS:PROCESS_TYPE_VERSION" value="Latest"/>
+    <elementParameter field="TECHNICAL" name="PROCESS:PROCESS_TYPE_CONTEXT" value="Default"/>
+    <elementParameter field="TEXT" name="CONTEXT_NAME" value="Default"/>
+    <elementParameter field="CHECK" name="USE_INDEPENDENT_PROCESS" value="false"/>
+    <elementParameter field="CHECK" name="DIE_ON_CHILD_ERROR" value="true"/>
+    <elementParameter field="CHECK" name="TRANSMIT_WHOLE_CONTEXT" value="false"/>
+    <elementParameter field="TABLE" name="CONTEXTPARAMS"/>
+    <elementParameter field="CHECK" name="PRINT_PARAMETER" value="false"/>
+    <elementParameter field="CHECK" name="TRANSMIT_ORIGINAL_CONTEXT" value="true"/>
+    <elementParameter field="TEXT" name="LABEL" value="__PROCESS__"/>
+    <elementParameter field="TEXT" name="CONNECTION_FORMAT" value="row"/>
+    <elementParameter field="CHECK" name="INFORMATION" value="false"/>
+    <elementParameter field="MEMO" name="COMMENT" value=""/>
+    <elementParameter field="CHECK" name="VALIDATION_RULES" value="false"/>
+    <metadata connector="FLOW" name="tRunJob_3"/>
+  </node>
+  <node componentName="tRunJob" componentVersion="0.101" offsetLabelX="0" offsetLabelY="0" posX="448" posY="192">
+    <elementParameter field="TEXT" name="UNIQUE_NAME" value="tRunJob_4"/>
+    <elementParameter field="CHECK" name="START" value="true"/>
+    <elementParameter field="CHECK" name="USE_DYNAMIC_JOB" value="false"/>
+    <elementParameter field="TEXT" name="CONTEXT_JOB" value=""/>
+    <elementParameter field="PROCESS_TYPE" name="PROCESS" value="jTemplate"/>
+    <elementParameter field="TECHNICAL" name="PROCESS:PROCESS_TYPE_PROCESS" value="_3FMTQLPpEeKrpN8SZlxl4g"/>
+    <elementParameter field="TECHNICAL" name="PROCESS:PROCESS_TYPE_VERSION" value="Latest"/>
+    <elementParameter field="TECHNICAL" name="PROCESS:PROCESS_TYPE_CONTEXT" value="Default"/>
+    <elementParameter field="TEXT" name="CONTEXT_NAME" value="Default"/>
+    <elementParameter field="CHECK" name="USE_INDEPENDENT_PROCESS" value="false"/>
+    <elementParameter field="CHECK" name="DIE_ON_CHILD_ERROR" value="true"/>
+    <elementParameter field="CHECK" name="TRANSMIT_WHOLE_CONTEXT" value="false"/>
+    <elementParameter field="TABLE" name="CONTEXTPARAMS"/>
+    <elementParameter field="CHECK" name="PRINT_PARAMETER" value="false"/>
+    <elementParameter field="CHECK" name="TRANSMIT_ORIGINAL_CONTEXT" value="true"/>
+    <elementParameter field="TEXT" name="LABEL" value="__PROCESS__"/>
+    <elementParameter field="TEXT" name="CONNECTION_FORMAT" value="row"/>
+    <elementParameter field="CHECK" name="INFORMATION" value="false"/>
+    <elementParameter field="MEMO" name="COMMENT" value=""/>
+    <elementParameter field="CHECK" name="VALIDATION_RULES" value="false"/>
+    <metadata connector="FLOW" name="tRunJob_4"/>
+  </node>
+  <note opaque="true" posX="32" posY="32" sizeHeight="97" sizeWidth="897" text="Glisser-déposer les jobs &quot;point d'entrée&quot; ici, dans n'importe-quel ordre !!">
+    <elementParameter field="COLOR" name="NOTE_COLOR" value="255;255;203"/>
+    <elementParameter field="COLOR" name="NOTETXT_COLOR" value="0;0;0"/>
+    <elementParameter field="RADIO" name="NOTETXT_LEFT" value="true"/>
+    <elementParameter field="RADIO" name="NOTETXT_RIGHT" value="false"/>
+    <elementParameter field="RADIO" name="NOTETXT_CENTER" value="false"/>
+    <elementParameter field="RADIO" name="NOTELABEL_CENTER" value="true"/>
+    <elementParameter field="RADIO" name="NOTETXT_TOP" value="false"/>
+    <elementParameter field="RADIO" name="NOTETXT_BOTTOM" value="false"/>
+    <elementParameter field="TEXT" name="NOTE_FONT" value="Time New Roman"/>
+    <elementParameter field="TEXT" name="FONT_SIZE" value="10"/>
+    <elementParameter field="CHECK" name="FONT_BOLD" value="true"/>
+    <elementParameter field="CHECK" name="FONT_ITALIC" value="false"/>
+    <elementParameter field="COLOR" name="NOTE_LINECOLOR" value="237;201;122"/>
+  </note>
+  <subjob>
+    <elementParameter field="TEXT" name="UNIQUE_NAME" value="tRunJob_1"/>
+    <elementParameter field="COLOR" name="SUBJOB_TITLE_COLOR" value="160;190;240"/>
+    <elementParameter field="COLOR" name="SUBJOB_COLOR" value="220;220;250"/>
+  </subjob>
+  <subjob>
+    <elementParameter field="TEXT" name="UNIQUE_NAME" value="tRunJob_2"/>
+    <elementParameter field="COLOR" name="SUBJOB_TITLE_COLOR" value="160;190;240"/>
+    <elementParameter field="COLOR" name="SUBJOB_COLOR" value="220;220;250"/>
+  </subjob>
+  <subjob>
+    <elementParameter field="TEXT" name="UNIQUE_NAME" value="tRunJob_3"/>
+    <elementParameter field="COLOR" name="SUBJOB_TITLE_COLOR" value="160;190;240"/>
+    <elementParameter field="COLOR" name="SUBJOB_COLOR" value="220;220;250"/>
+  </subjob>
+  <subjob>
+    <elementParameter field="TEXT" name="UNIQUE_NAME" value="tRunJob_4"/>
+    <elementParameter field="COLOR" name="SUBJOB_TITLE_COLOR" value="160;190;240"/>
+    <elementParameter field="COLOR" name="SUBJOB_COLOR" value="220;220;250"/>
+  </subjob>
+</talendfile:ProcessType>

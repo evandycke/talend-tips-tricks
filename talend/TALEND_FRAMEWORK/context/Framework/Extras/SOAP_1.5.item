@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_ogD64Om_EeqthY-ZP78g2A" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_ogD64em_EeqthY-ZP78g2A" comment="" name="soapUsername" prompt="soapUsername?" promptNeeded="false" type="id_String" value="null"/>
+  <contextParameter xmi:id="_ogD64um_EeqthY-ZP78g2A" comment="" name="soapPassword" prompt="soapPassword?" promptNeeded="false" type="id_String" value="null"/>
+  <contextParameter xmi:id="_ogD64-m_EeqthY-ZP78g2A" comment="" name="soapENDPOINT" prompt="soapENDPOINT?" promptNeeded="false" type="id_String" value="null"/>
+  <contextParameter xmi:id="_ogD65Om_EeqthY-ZP78g2A" comment="" name="soapSOAPAction" prompt="soapSOAPAction?" promptNeeded="false" type="id_String" value="null"/>
+  <contextParameter xmi:id="_ogD65em_EeqthY-ZP78g2A" comment="" name="soapSOAPMessage" prompt="soapSOAPMessage?" promptNeeded="false" type="id_String" value="null"/>
+  <contextParameter xmi:id="_ogD65um_EeqthY-ZP78g2A" comment="" name="soapUseNTLM" prompt="soapUseNTLM?" promptNeeded="false" type="id_Boolean" value="false"/>
+  <contextParameter xmi:id="_ogD65-m_EeqthY-ZP78g2A" comment="" name="soapNTLMDomain" prompt="soapNTLMDomain?" promptNeeded="false" type="id_String" value="&quot;192.168.0.100&quot;"/>
+  <contextParameter xmi:id="_ogD66Om_EeqthY-ZP78g2A" comment="" name="soapNeedAuthentication" prompt="soapNeedAuthentication?" promptNeeded="false" type="id_Boolean" value="true"/>
+  <contextParameter xmi:id="_ogD66em_EeqthY-ZP78g2A" comment="" name="soapUseHTTPProxy" prompt="soapUseHTTPProxy?" promptNeeded="false" type="id_Boolean" value="false"/>
+  <contextParameter xmi:id="_ogD66um_EeqthY-ZP78g2A" comment="" name="soapProxyHost" prompt="soapProxyHost?" promptNeeded="false" type="id_String" value="&quot;61.163.92.4&quot;"/>
+  <contextParameter xmi:id="_ogD66-m_EeqthY-ZP78g2A" comment="" name="soapProxyPort" prompt="soapProxyPort?" promptNeeded="false" type="id_Integer" value="8080"/>
+  <contextParameter xmi:id="_ogD67Om_EeqthY-ZP78g2A" comment="" name="soapProxyUser" prompt="soapProxyUser?" promptNeeded="false" type="id_String" value="&quot;&quot;"/>
+  <contextParameter xmi:id="_ogD67em_EeqthY-ZP78g2A" comment="" name="soapProxyPassword" prompt="soapProxyPassword?" promptNeeded="false" type="id_Password" value="enc:system.encryption.key.v1:7UG7Z38XGMFfCHf/dnYOceIVvAUAQ/eSBUIqXhou9R9mY3aVKA=="/>
+  <contextParameter xmi:id="_ogD67um_EeqthY-ZP78g2A" comment="" name="soapTrustServerWithSSL" prompt="soapTrustServerWithSSL?" promptNeeded="false" type="id_Boolean" value="false"/>
+  <contextParameter xmi:id="_ogD67-m_EeqthY-ZP78g2A" comment="" name="soapTrustStoreFile" prompt="soapTrustStoreFile?" promptNeeded="false" type="id_String" value="&quot;C:/clientTrustStore.trustStore&quot;"/>
+  <contextParameter xmi:id="_ogD68Om_EeqthY-ZP78g2A" comment="" name="soapTrustStorePassword" prompt="soapTrustStorePassword?" promptNeeded="false" type="id_Password" value="enc:system.encryption.key.v1:mUti/jVw/dy27eOMpHE0ngBWR/U3FW5Pnp9Uyshi2lh6A1YKa94="/>
+  <contextParameter xmi:id="_ogD68em_EeqthY-ZP78g2A" comment="" name="soapSOAPVersion" prompt="soapSOAPVersion?" promptNeeded="false" type="id_String" value="&quot;1.2&quot;"/>
+  <contextParameter xmi:id="_ogD68um_EeqthY-ZP78g2A" comment="" name="soapUseMessageFromTheSchema" prompt="soapUseMessageFromTheSchema?" promptNeeded="false" type="id_Boolean" value="false"/>
+  <contextParameter xmi:id="_ogD68-m_EeqthY-ZP78g2A" comment="" name="soapOutputInDocument" prompt="soapOutputInDocument?" promptNeeded="false" type="id_Boolean" value="false"/>
+  <contextParameter xmi:id="_ogD69Om_EeqthY-ZP78g2A" comment="" name="soapUseKerberos" prompt="soapUseKerberos?" promptNeeded="false" type="id_Boolean" value="false"/>
+  <contextParameter xmi:id="_ogD69em_EeqthY-ZP78g2A" comment="" name="soapKerberosConfiguration" prompt="soapKerberosConfiguration?" promptNeeded="false" type="id_String" value="null"/>
+</talendfile:ContextType>

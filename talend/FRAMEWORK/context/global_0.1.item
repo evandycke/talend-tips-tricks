@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_yoUEsK5gEeqCmMYNxfo1sw" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_yoUEsa5gEeqCmMYNxfo1sw" comment="Emplacement du fichier de configuration du projet" name="configFile" prompt="configFile?" promptNeeded="false" type="id_String" value="D:/dev/ETL-JOB/EPAIE_Publier/bi-task/result/data/MAGASINGP/cnfg/MAGASINGP.properties"/>
+  <contextParameter xmi:id="_yoUEsq5gEeqCmMYNxfo1sw" comment="Emplacement du fichier de debug" name="debugLogFile" prompt="debugLogFile?" promptNeeded="false" type="id_String" value="D:/dev/ETL-JOB/EPAIE_Publier/bi-task/result/debug.log"/>
+  <contextParameter xmi:id="_yoUEs65gEeqCmMYNxfo1sw" comment="Emplacement du fichier d'erreur" name="errorLogFile" prompt="errorLogFile?" promptNeeded="false" type="id_String" value="D:/dev/ETL-JOB/EPAIE_Publier/bi-task/result/error.log"/>
+  <contextParameter xmi:id="_yoUEtK5gEeqCmMYNxfo1sw" comment="Emplacement du fichier de configuration de log4j" name="log4jFile" prompt="log4jFile?" promptNeeded="false" type="id_String" value="D:/dev/ETL-JOB/EPAIE_Publier/bi-task/result/log4j.xml"/>
+</talendfile:ContextType>
