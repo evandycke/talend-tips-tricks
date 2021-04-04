@@ -10,7 +10,6 @@ Some Tips and Tricks about Talend.
 
 * Conduct a [Talend Job Review](https://analyticsweek.com/content/conducting-effective-talend-job-design-reviews-a-primer/)
 * Data Model [Design](https://www.talend.com/blog/2017/05/05/data-model-design-best-practices-part-1)
-* Using a Talend [Framework](http://talendframework.com/) with collection of Jobs, Routines, and other Objects
 * Best practice guidelines for ETL project
 
 ## Useful scripts
@@ -21,13 +20,22 @@ Some Tips and Tricks about Talend.
 
 * Installation of the [Git plugin](http://easy-bi.org/blog/talend-installation-plugin-git-studio/) in the studio
 
+## Useful projects
+
+* [Talend Framework](http://talendframework.com/) - The Talend Framework is a collection of Jobs, Routines, and other Objects that will provide the building blocks for your new Talend Data Integration or Data Migration project.
+* Some useful projects for ETL.
+
+## Getting started with Talend Framework
+
+1. Clone this project
+2. Import the project in the workspace folder
+3. Launch Talend Open Studio for Data Integration
+
 ## Build with
 
+* [Talend Open Studio for Data Integration](https://www.talend.com/fr/) - Open source ETL
 * [Git](https://git-scm.com) - Open source distributed version control system
-
-## Getting started with ...
-
-...
+* [Talend Framework](http://talendframework.com/) - Data integration & Data migration framework
 
 ## Contributing
 
