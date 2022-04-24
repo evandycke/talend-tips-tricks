@@ -7,7 +7,7 @@
     <contextParameter comment="URL de connexion" name="dbCible_JdbcUrl" prompt="dbCible_JdbcUrl?" promptNeeded="false" repositoryContextId="_M1TesC6wEeWABbuGwP4-Mw" type="id_String" value="jdbc:sqlserver://localhost:1692;databasename=EMAGNUS_31 "/>
     <contextParameter comment="Utilisateur" name="dbCible_Login" prompt="dbCible_Login?" promptNeeded="false" repositoryContextId="_M1TesC6wEeWABbuGwP4-Mw" type="id_String" value="EMAGNUS_31"/>
     <contextParameter comment="Fichier de mapping" name="dbCible_MappingFile" prompt="dbCible_MappingFile?" promptNeeded="false" repositoryContextId="_M1TesC6wEeWABbuGwP4-Mw" type="id_String" value="id_MSSQL"/>
-    <contextParameter comment="Mot de passe" name="dbCible_Password" prompt="dbCible_Password?" promptNeeded="false" repositoryContextId="_M1TesC6wEeWABbuGwP4-Mw" type="id_Password" value="cBsDO/Kn/3n096uhdGeE6g=="/>
+    <contextParameter comment="Mot de passe" name="dbCible_Password" prompt="dbCible_Password?" promptNeeded="false" repositoryContextId="_M1TesC6wEeWABbuGwP4-Mw" type="id_Password" value="enc:system.encryption.key.v1:z6q0EF5I23qGCY0zZq6go9ZpOqGOcaXFLK9YJs7iH1bgN6QX"/>
     <contextParameter comment="Schéma utilisé pour la connexion" name="dbCible_Schema" prompt="dbCible_Schema?" promptNeeded="false" repositoryContextId="_M1TesC6wEeWABbuGwP4-Mw" type="id_String" value="dbo"/>
     <contextParameter comment="Nom de la classe utilisé pour la connexion" name="dbSource_ClassName" prompt="dbSource_ClassName?" promptNeeded="false" repositoryContextId="_05zH0C6vEeWABbuGwP4-Mw" type="id_String" value="org.sqlite.JDBC"/>
     <contextParameter comment="Nom de la connexion partagée" name="dbSource_ConnectionName" prompt="dbSource_ConnectionName?" promptNeeded="false" repositoryContextId="_05zH0C6vEeWABbuGwP4-Mw" type="id_String" value="null"/>
@@ -35,7 +35,7 @@
     <contextParameter comment="Chemin d'accès au fichier Excel utilisateur de configuration de l'extraction" name="userExcelConfigFile" prompt="userExcelConfigFile?" promptNeeded="false" repositoryContextId="_Iom-oBe7Ed-5l4LCrtxZGQ" type="id_String" value="D:/ihm/framework/configuration/configuration.xlsx"/>
   </context>
   <parameters>
-    <elementParameter field="TEXT" name="JOB_RUN_VM_ARGUMENTS" value=" -Xms256M -Xmx1024M"/>
+    <elementParameter field="TEXT" name="JOB_RUN_VM_ARGUMENTS" value="{&quot;JOB_RUN_VM_ARGUMENTS&quot;:[&quot;-Xms256M&quot;,&quot;-Xmx1024M&quot;]}"/>
     <elementParameter field="CHECK" name="JOB_RUN_VM_ARGUMENTS_OPTION" value="false"/>
     <elementParameter field="TEXT" name="SCREEN_OFFSET_X" value="0"/>
     <elementParameter field="TEXT" name="SCREEN_OFFSET_Y" value="0"/>

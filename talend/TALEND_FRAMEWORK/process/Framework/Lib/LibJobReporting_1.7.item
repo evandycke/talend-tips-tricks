@@ -40,9 +40,9 @@
     <contextParameter comment="" name="lockDir" prompt="lockDir?" promptNeeded="false" repositoryContextId="_Zid7kDYIEeW39qpAM_5fZw" type="id_String" value="#BASEDIR/lock"/>
     <contextParameter comment="" name="workingDir" prompt="workingDir?" promptNeeded="false" repositoryContextId="_Zid7kDYIEeW39qpAM_5fZw" type="id_String" value="#BASEDIR/#JOBNAME/working"/>
     <contextParameter comment="" name="binDir" prompt="binDir?" promptNeeded="false" repositoryContextId="_Zid7kDYIEeW39qpAM_5fZw" type="id_String" value="#BASEDIR/bin"/>
-    <contextParameter comment="" name="meterFile" prompt="meterFile?" promptNeeded="false" type="id_String" value=""/>
-    <contextParameter comment="" name="logFile" prompt="logFile?" promptNeeded="false" type="id_String" value=""/>
-    <contextParameter comment="" name="reportingSpreadsheet" prompt="reportingSpreadsheet?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter comment="" name="meterFile" prompt="meterFile?" promptNeeded="false" type="id_String" value="" internalId="_aSolgMOmEeyNLr0wz1KYLw"/>
+    <contextParameter comment="" name="logFile" prompt="logFile?" promptNeeded="false" type="id_String" value="" internalId="_aSolgcOmEeyNLr0wz1KYLw"/>
+    <contextParameter comment="" name="reportingSpreadsheet" prompt="reportingSpreadsheet?" promptNeeded="false" type="id_String" value="" internalId="_aSolgsOmEeyNLr0wz1KYLw"/>
     <contextParameter comment="" name="documentationURL" prompt="documentationURL?" promptNeeded="false" repositoryContextId="_BS45gDYFEeW39qpAM_5fZw" type="id_String" value="talendframework.com"/>
     <contextParameter comment="" name="isHeadless" prompt="isHeadless?" promptNeeded="false" repositoryContextId="_BS45gDYFEeW39qpAM_5fZw" type="id_Boolean" value="false"/>
     <contextParameter comment="" name="systemErrorRecipient" prompt="systemErrorRecipient?" promptNeeded="false" repositoryContextId="_BS45gDYFEeW39qpAM_5fZw" type="id_String" value=""/>

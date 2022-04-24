@@ -17,7 +17,7 @@
     <contextParameter comment="URL de connexion" name="dbSource_JdbcUrl" prompt="dbSource_JdbcUrl?" promptNeeded="false" repositoryContextId="_05zH0C6vEeWABbuGwP4-Mw" type="id_String" value="jdbc:sqlserver://localhost:1692;databasename=EMAGNUS_31 "/>
     <contextParameter comment="Utilisateur" name="dbSource_Login" prompt="dbSource_Login?" promptNeeded="false" repositoryContextId="_05zH0C6vEeWABbuGwP4-Mw" type="id_String" value="EMAGNUS_31"/>
     <contextParameter comment="Fichier de mapping" name="dbSource_MappingFile" prompt="dbSource_MappingFile?" promptNeeded="false" repositoryContextId="_05zH0C6vEeWABbuGwP4-Mw" type="id_String" value="id_MSSQL"/>
-    <contextParameter comment="Mot de passe" name="dbSource_Password" prompt="dbSource_Password?" promptNeeded="false" repositoryContextId="_05zH0C6vEeWABbuGwP4-Mw" type="id_Password" value="cBsDO/Kn/3n096uhdGeE6g=="/>
+    <contextParameter comment="Mot de passe" name="dbSource_Password" prompt="dbSource_Password?" promptNeeded="false" repositoryContextId="_05zH0C6vEeWABbuGwP4-Mw" type="id_Password" value="enc:system.encryption.key.v1:wBGT/SbfkSo2LMLFX/mlK3t8l8aJdFeaBX2sfqv6gCETaTYw"/>
     <contextParameter comment="Schéma utilisé pour la connexion" name="dbSource_Schema" prompt="dbSource_Schema?" promptNeeded="false" repositoryContextId="_05zH0C6vEeWABbuGwP4-Mw" type="id_String" value="dbo"/>
     <contextParameter comment="Taille de la mémoire pour le tri externe" name="externalSortBufferSize" prompt="externalSortBufferSize?" promptNeeded="false" repositoryContextId="_cCcaEDSyEeK0O4kgL4ajXQ" type="id_Integer" value="1000000"/>
     <contextParameter comment="Personnalise la taille de la mémoire utilisée pour stocker temporairement les données" name="flushOnRow" prompt="flushOnRow?" promptNeeded="false" repositoryContextId="_cCcaEDSyEeK0O4kgL4ajXQ" type="id_Integer" value="1000"/>
@@ -34,7 +34,7 @@
     <contextParameter comment="Chemin d'accès au fichier Excel utilisateur de configuration de l'extraction" name="userExcelConfigFile" prompt="userExcelConfigFile?" promptNeeded="false" repositoryContextId="_Iom-oBe7Ed-5l4LCrtxZGQ" type="id_String" value="D:/ihm/framework/configuration/configuration.xlsx"/>
   </context>
   <parameters>
-    <elementParameter field="TEXT" name="JOB_RUN_VM_ARGUMENTS" value=" -Xms256M -Xmx1024M"/>
+    <elementParameter field="TEXT" name="JOB_RUN_VM_ARGUMENTS" value="{&quot;JOB_RUN_VM_ARGUMENTS&quot;:[&quot;-Xms256M&quot;,&quot;-Xmx1024M&quot;]}"/>
     <elementParameter field="CHECK" name="JOB_RUN_VM_ARGUMENTS_OPTION" value="false"/>
     <elementParameter field="TEXT" name="SCREEN_OFFSET_X" value="0"/>
     <elementParameter field="TEXT" name="SCREEN_OFFSET_Y" value="0"/>
@@ -243,6 +243,7 @@
     <elementParameter field="CHECK" name="INFORMATION" value="false"/>
     <elementParameter field="MEMO" name="COMMENT" value=""/>
     <elementParameter field="CHECK" name="VALIDATION_RULES" value="false"/>
+    <elementParameter field="CHECK" name="FILE_EXIST_EXCEPTION" value="false"/>
     <metadata connector="FLOW" label="SYNTHESE" name="tFileOutputDelimited_1">
       <column comment="Message de la synthèse" key="false" length="0" name="MESSAGE" nullable="true" pattern="" precision="0" type="id_String" usefulColumn="true"/>
     </metadata>

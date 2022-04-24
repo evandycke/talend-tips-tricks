@@ -40,9 +40,9 @@
     <contextParameter comment="" name="lockDir" prompt="lockDir?" promptNeeded="false" repositoryContextId="_Zid7kDYIEeW39qpAM_5fZw" type="id_String" value="#BASEDIR/lock"/>
     <contextParameter comment="" name="workingDir" prompt="workingDir?" promptNeeded="false" repositoryContextId="_Zid7kDYIEeW39qpAM_5fZw" type="id_String" value="#BASEDIR/#JOBNAME/working"/>
     <contextParameter comment="" name="binDir" prompt="binDir?" promptNeeded="false" repositoryContextId="_Zid7kDYIEeW39qpAM_5fZw" type="id_String" value="#BASEDIR/bin"/>
-    <contextParameter comment="" name="meterFile" prompt="meterFile?" promptNeeded="false" type="id_String" value=""/>
-    <contextParameter comment="" name="logFile" prompt="logFile?" promptNeeded="false" type="id_String" value=""/>
-    <contextParameter comment="" name="reportingSpreadsheet" prompt="reportingSpreadsheet?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter comment="" name="meterFile" prompt="meterFile?" promptNeeded="false" type="id_String" value="" internalId="_aPubcMOmEeyNLr0wz1KYLw"/>
+    <contextParameter comment="" name="logFile" prompt="logFile?" promptNeeded="false" type="id_String" value="" internalId="_aPubccOmEeyNLr0wz1KYLw"/>
+    <contextParameter comment="" name="reportingSpreadsheet" prompt="reportingSpreadsheet?" promptNeeded="false" type="id_String" value="" internalId="_aPubcsOmEeyNLr0wz1KYLw"/>
   </context>
   <parameters>
     <elementParameter field="TEXT" name="SCREEN_OFFSET_X" value="0"/>

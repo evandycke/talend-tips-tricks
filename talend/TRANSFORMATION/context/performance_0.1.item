@@ -1,6 +1,2 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" confirmationNeeded="false" name="Default">
-  <contextParameter comment="Personnalise la taille de la mémoire utilisée pour stocker temporairement les données" name="flushOnRow" prompt="flushOnRow?" promptNeeded="false" type="id_Integer" value="1000"/>
-  <contextParameter comment="Taille de la mémoire pour le tri externe" name="externalSortBufferSize" prompt="externalSortBufferSize?" promptNeeded="false" type="id_Integer" value="1000000"/>
-  <contextParameter comment="Personnalise le nombre de lignes dans chaque fichier en sortie" name="splitEvery" prompt="splitEvery?" promptNeeded="false" type="id_Integer" value="10000"/>
-</talendfile:ContextType>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_4bRNAMOmEeyt_MxQNXZcvg"/>

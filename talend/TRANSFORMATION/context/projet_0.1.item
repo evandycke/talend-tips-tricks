@@ -1,13 +1,2 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" confirmationNeeded="false" name="Default">
-  <contextParameter comment="Chemin d'accès au fichier de configuration de la chaine TOS" name="configFile" prompt="configFile?" promptNeeded="false" type="id_String" value="D:/ihm/framework/bin/config/extraction.properties"/>
-  <contextParameter comment="Chemin d'accès au journal de debogage" name="debugLogFile" prompt="debugLogFile?" promptNeeded="false" type="id_String" value="D:/ihm/framework/bin/log/debug.log"/>
-  <contextParameter comment="Chemin d'accès au journal d'erreur" name="errorLogFile" prompt="errorLogFile?" promptNeeded="false" type="id_String" value="D:/ihm/framework/bin//log/error.log"/>
-  <contextParameter comment="Chemin d'accès au fichier de configuration de Log4J" name="log4jFile" prompt="log4jFile?" promptNeeded="false" type="id_String" value="D:/ihm/framework/bin/config/log4j.xml"/>
-  <contextParameter comment="Chemin d'accès au fichier de connexion &quot;Connexion.ini&quot;" name="connectionFile" prompt="connectionFile?" promptNeeded="false" type="id_String" value="D:/ihm/framework/configuration/connexion.ini"/>
-  <contextParameter comment="Répertoire des journaux" name="logDirectory" prompt="logDirectory?" promptNeeded="false" type="id_String" value="D:/ihm/framework/rapports"/>
-  <contextParameter comment="Répertoire de configuration utilisateur" name="userConfigDirectory" prompt="userConfigDirectory?" promptNeeded="false" type="id_String" value="D:/ihm/framework/configuration"/>
-  <contextParameter comment="Chemin d'accès au fichier Excel de configuration de l'extraction" name="emptyExcelConfigFile" prompt="emptyExcelConfigFile?" promptNeeded="false" type="id_String" value="D:/ihm/framework/bin/config/configuration.xlsx"/>
-  <contextParameter comment="Chemin d'accès au fichier Excel utilisateur de configuration de l'extraction" name="userExcelConfigFile" prompt="userExcelConfigFile?" promptNeeded="false" type="id_String" value="D:/ihm/framework/configuration/configuration.xlsx"/>
-  <contextParameter comment="Répertoire temporaire" name="tempDirectory" prompt="tempDirectory?" promptNeeded="false" type="id_String" value="D:/ihm/framework/bin/tmp"/>
-</talendfile:ContextType>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_4bi50MOmEeyt_MxQNXZcvg"/>

@@ -40,14 +40,14 @@
     <contextParameter comment="" name="tmpDirRetentionDays" prompt="tmpDirRetentionDays?" promptNeeded="false" repositoryContextId="_BS45gDYFEeW39qpAM_5fZw" type="id_Integer" value="7"/>
     <contextParameter comment="" name="workingDirRetentionDays" prompt="workingDirRetentionDays?" promptNeeded="false" repositoryContextId="_BS45gDYFEeW39qpAM_5fZw" type="id_Integer" value="90"/>
     <contextParameter comment="" name="logDirRetentionDays" prompt="logDirRetentionDays?" promptNeeded="false" repositoryContextId="_BS45gDYFEeW39qpAM_5fZw" type="id_Integer" value="30"/>
-    <contextParameter comment="" name="tmpDeleteFilePattern" prompt="tmpDeleteFilePattern?" promptNeeded="false" type="id_String" value=""/>
-    <contextParameter comment="" name="workingDeleteFilePattern" prompt="workingDeleteFilePattern?" promptNeeded="false" type="id_String" value=""/>
-    <contextParameter comment="" name="inputDeleteFilePattern" prompt="inputDeleteFilePattern?" promptNeeded="false" type="id_String" value=""/>
-    <contextParameter comment="" name="outputDeleteFilePattern" prompt="outputDeleteFilePattern?" promptNeeded="false" type="id_String" value=""/>
-    <contextParameter comment="" name="archiveTmpDir" prompt="archiveTmpDir?" promptNeeded="false" type="id_Boolean" value="false"/>
-    <contextParameter comment="" name="archiveWorkingDir" prompt="archiveWorkingDir?" promptNeeded="false" type="id_Boolean" value="false"/>
-    <contextParameter comment="" name="archiveInputDir" prompt="archiveInputDir?" promptNeeded="false" type="id_Boolean" value="false"/>
-    <contextParameter comment="" name="archiveOutputDir" prompt="archiveOutputDir?" promptNeeded="false" type="id_Boolean" value="false"/>
+    <contextParameter comment="" name="tmpDeleteFilePattern" prompt="tmpDeleteFilePattern?" promptNeeded="false" type="id_String" value="" internalId="_Z3KxgMOmEeyNLr0wz1KYLw"/>
+    <contextParameter comment="" name="workingDeleteFilePattern" prompt="workingDeleteFilePattern?" promptNeeded="false" type="id_String" value="" internalId="_Z3KxgcOmEeyNLr0wz1KYLw"/>
+    <contextParameter comment="" name="inputDeleteFilePattern" prompt="inputDeleteFilePattern?" promptNeeded="false" type="id_String" value="" internalId="_Z3KxgsOmEeyNLr0wz1KYLw"/>
+    <contextParameter comment="" name="outputDeleteFilePattern" prompt="outputDeleteFilePattern?" promptNeeded="false" type="id_String" value="" internalId="_Z3Kxg8OmEeyNLr0wz1KYLw"/>
+    <contextParameter comment="" name="archiveTmpDir" prompt="archiveTmpDir?" promptNeeded="false" type="id_Boolean" value="false" internalId="_Z3KxhMOmEeyNLr0wz1KYLw"/>
+    <contextParameter comment="" name="archiveWorkingDir" prompt="archiveWorkingDir?" promptNeeded="false" type="id_Boolean" value="false" internalId="_Z3KxhcOmEeyNLr0wz1KYLw"/>
+    <contextParameter comment="" name="archiveInputDir" prompt="archiveInputDir?" promptNeeded="false" type="id_Boolean" value="false" internalId="_Z3KxhsOmEeyNLr0wz1KYLw"/>
+    <contextParameter comment="" name="archiveOutputDir" prompt="archiveOutputDir?" promptNeeded="false" type="id_Boolean" value="false" internalId="_Z3Kxh8OmEeyNLr0wz1KYLw"/>
     <contextParameter comment="" name="documentationURL" prompt="documentationURL?" promptNeeded="false" repositoryContextId="_BS45gDYFEeW39qpAM_5fZw" type="id_String" value="talendframework.com"/>
     <contextParameter comment="" name="isHeadless" prompt="isHeadless?" promptNeeded="false" repositoryContextId="_BS45gDYFEeW39qpAM_5fZw" type="id_Boolean" value="false"/>
     <contextParameter comment="" name="systemErrorRecipient" prompt="systemErrorRecipient?" promptNeeded="false" repositoryContextId="_BS45gDYFEeW39qpAM_5fZw" type="id_String" value=""/>
@@ -93,14 +93,14 @@
     <contextParameter comment="" name="tmpDirRetentionDays" prompt="tmpDirRetentionDays?" promptNeeded="false" repositoryContextId="_BS45gDYFEeW39qpAM_5fZw" type="id_Integer" value="7"/>
     <contextParameter comment="" name="workingDirRetentionDays" prompt="workingDirRetentionDays?" promptNeeded="false" repositoryContextId="_BS45gDYFEeW39qpAM_5fZw" type="id_Integer" value="90"/>
     <contextParameter comment="" name="logDirRetentionDays" prompt="logDirRetentionDays?" promptNeeded="false" repositoryContextId="_BS45gDYFEeW39qpAM_5fZw" type="id_Integer" value="30"/>
-    <contextParameter comment="" name="tmpDeleteFilePattern" prompt="tmpDeleteFilePattern?" promptNeeded="false" type="id_String" value=""/>
-    <contextParameter comment="" name="workingDeleteFilePattern" prompt="workingDeleteFilePattern?" promptNeeded="false" type="id_String" value=""/>
-    <contextParameter comment="" name="inputDeleteFilePattern" prompt="inputDeleteFilePattern?" promptNeeded="false" type="id_String" value=""/>
-    <contextParameter comment="" name="outputDeleteFilePattern" prompt="outputDeleteFilePattern?" promptNeeded="false" type="id_String" value=""/>
-    <contextParameter comment="" name="archiveTmpDir" prompt="archiveTmpDir?" promptNeeded="false" type="id_Boolean" value=""/>
-    <contextParameter comment="" name="archiveWorkingDir" prompt="archiveWorkingDir?" promptNeeded="false" type="id_Boolean" value=""/>
-    <contextParameter comment="" name="archiveInputDir" prompt="archiveInputDir?" promptNeeded="false" type="id_Boolean" value=""/>
-    <contextParameter comment="" name="archiveOutputDir" prompt="archiveOutputDir?" promptNeeded="false" type="id_Boolean" value=""/>
+    <contextParameter comment="" name="tmpDeleteFilePattern" prompt="tmpDeleteFilePattern?" promptNeeded="false" type="id_String" value="" internalId="_Z3KxiMOmEeyNLr0wz1KYLw"/>
+    <contextParameter comment="" name="workingDeleteFilePattern" prompt="workingDeleteFilePattern?" promptNeeded="false" type="id_String" value="" internalId="_Z3KxicOmEeyNLr0wz1KYLw"/>
+    <contextParameter comment="" name="inputDeleteFilePattern" prompt="inputDeleteFilePattern?" promptNeeded="false" type="id_String" value="" internalId="_Z3KxisOmEeyNLr0wz1KYLw"/>
+    <contextParameter comment="" name="outputDeleteFilePattern" prompt="outputDeleteFilePattern?" promptNeeded="false" type="id_String" value="" internalId="_Z3Kxi8OmEeyNLr0wz1KYLw"/>
+    <contextParameter comment="" name="archiveTmpDir" prompt="archiveTmpDir?" promptNeeded="false" type="id_Boolean" value="" internalId="_Z3KxjMOmEeyNLr0wz1KYLw"/>
+    <contextParameter comment="" name="archiveWorkingDir" prompt="archiveWorkingDir?" promptNeeded="false" type="id_Boolean" value="" internalId="_Z3KxjcOmEeyNLr0wz1KYLw"/>
+    <contextParameter comment="" name="archiveInputDir" prompt="archiveInputDir?" promptNeeded="false" type="id_Boolean" value="" internalId="_Z3KxjsOmEeyNLr0wz1KYLw"/>
+    <contextParameter comment="" name="archiveOutputDir" prompt="archiveOutputDir?" promptNeeded="false" type="id_Boolean" value="" internalId="_Z3Kxj8OmEeyNLr0wz1KYLw"/>
     <contextParameter comment="" name="documentationURL" prompt="documentationURL?" promptNeeded="false" repositoryContextId="_BS45gDYFEeW39qpAM_5fZw" type="id_String" value="talendframework.com"/>
     <contextParameter comment="" name="isHeadless" prompt="isHeadless?" promptNeeded="false" repositoryContextId="_BS45gDYFEeW39qpAM_5fZw" type="id_Boolean" value="false"/>
     <contextParameter comment="" name="systemErrorRecipient" prompt="systemErrorRecipient?" promptNeeded="false" repositoryContextId="_BS45gDYFEeW39qpAM_5fZw" type="id_String" value=""/>
@@ -146,14 +146,14 @@
     <contextParameter comment="" name="tmpDirRetentionDays" prompt="tmpDirRetentionDays?" promptNeeded="false" repositoryContextId="_BS45gDYFEeW39qpAM_5fZw" type="id_Integer" value="7"/>
     <contextParameter comment="" name="workingDirRetentionDays" prompt="workingDirRetentionDays?" promptNeeded="false" repositoryContextId="_BS45gDYFEeW39qpAM_5fZw" type="id_Integer" value="90"/>
     <contextParameter comment="" name="logDirRetentionDays" prompt="logDirRetentionDays?" promptNeeded="false" repositoryContextId="_BS45gDYFEeW39qpAM_5fZw" type="id_Integer" value="30"/>
-    <contextParameter comment="" name="tmpDeleteFilePattern" prompt="tmpDeleteFilePattern?" promptNeeded="false" type="id_String" value=""/>
-    <contextParameter comment="" name="workingDeleteFilePattern" prompt="workingDeleteFilePattern?" promptNeeded="false" type="id_String" value=""/>
-    <contextParameter comment="" name="inputDeleteFilePattern" prompt="inputDeleteFilePattern?" promptNeeded="false" type="id_String" value=""/>
-    <contextParameter comment="" name="outputDeleteFilePattern" prompt="outputDeleteFilePattern?" promptNeeded="false" type="id_String" value=""/>
-    <contextParameter comment="" name="archiveTmpDir" prompt="archiveTmpDir?" promptNeeded="false" type="id_Boolean" value=""/>
-    <contextParameter comment="" name="archiveWorkingDir" prompt="archiveWorkingDir?" promptNeeded="false" type="id_Boolean" value=""/>
-    <contextParameter comment="" name="archiveInputDir" prompt="archiveInputDir?" promptNeeded="false" type="id_Boolean" value=""/>
-    <contextParameter comment="" name="archiveOutputDir" prompt="archiveOutputDir?" promptNeeded="false" type="id_Boolean" value=""/>
+    <contextParameter comment="" name="tmpDeleteFilePattern" prompt="tmpDeleteFilePattern?" promptNeeded="false" type="id_String" value="" internalId="_Z3KxkMOmEeyNLr0wz1KYLw"/>
+    <contextParameter comment="" name="workingDeleteFilePattern" prompt="workingDeleteFilePattern?" promptNeeded="false" type="id_String" value="" internalId="_Z3KxkcOmEeyNLr0wz1KYLw"/>
+    <contextParameter comment="" name="inputDeleteFilePattern" prompt="inputDeleteFilePattern?" promptNeeded="false" type="id_String" value="" internalId="_Z3LYkMOmEeyNLr0wz1KYLw"/>
+    <contextParameter comment="" name="outputDeleteFilePattern" prompt="outputDeleteFilePattern?" promptNeeded="false" type="id_String" value="" internalId="_Z3LYkcOmEeyNLr0wz1KYLw"/>
+    <contextParameter comment="" name="archiveTmpDir" prompt="archiveTmpDir?" promptNeeded="false" type="id_Boolean" value="" internalId="_Z3LYksOmEeyNLr0wz1KYLw"/>
+    <contextParameter comment="" name="archiveWorkingDir" prompt="archiveWorkingDir?" promptNeeded="false" type="id_Boolean" value="" internalId="_Z3LYk8OmEeyNLr0wz1KYLw"/>
+    <contextParameter comment="" name="archiveInputDir" prompt="archiveInputDir?" promptNeeded="false" type="id_Boolean" value="" internalId="_Z3LYlMOmEeyNLr0wz1KYLw"/>
+    <contextParameter comment="" name="archiveOutputDir" prompt="archiveOutputDir?" promptNeeded="false" type="id_Boolean" value="" internalId="_Z3LYlcOmEeyNLr0wz1KYLw"/>
     <contextParameter comment="" name="documentationURL" prompt="documentationURL?" promptNeeded="false" repositoryContextId="_BS45gDYFEeW39qpAM_5fZw" type="id_String" value="talendframework.com"/>
     <contextParameter comment="" name="isHeadless" prompt="isHeadless?" promptNeeded="false" repositoryContextId="_BS45gDYFEeW39qpAM_5fZw" type="id_Boolean" value="false"/>
     <contextParameter comment="" name="systemErrorRecipient" prompt="systemErrorRecipient?" promptNeeded="false" repositoryContextId="_BS45gDYFEeW39qpAM_5fZw" type="id_String" value=""/>
@@ -199,14 +199,14 @@
     <contextParameter comment="" name="tmpDirRetentionDays" prompt="tmpDirRetentionDays?" promptNeeded="false" repositoryContextId="_BS45gDYFEeW39qpAM_5fZw" type="id_Integer" value="7"/>
     <contextParameter comment="" name="workingDirRetentionDays" prompt="workingDirRetentionDays?" promptNeeded="false" repositoryContextId="_BS45gDYFEeW39qpAM_5fZw" type="id_Integer" value="90"/>
     <contextParameter comment="" name="logDirRetentionDays" prompt="logDirRetentionDays?" promptNeeded="false" repositoryContextId="_BS45gDYFEeW39qpAM_5fZw" type="id_Integer" value="30"/>
-    <contextParameter comment="" name="tmpDeleteFilePattern" prompt="tmpDeleteFilePattern?" promptNeeded="false" type="id_String" value=""/>
-    <contextParameter comment="" name="workingDeleteFilePattern" prompt="workingDeleteFilePattern?" promptNeeded="false" type="id_String" value=""/>
-    <contextParameter comment="" name="inputDeleteFilePattern" prompt="inputDeleteFilePattern?" promptNeeded="false" type="id_String" value=""/>
-    <contextParameter comment="" name="outputDeleteFilePattern" prompt="outputDeleteFilePattern?" promptNeeded="false" type="id_String" value=""/>
-    <contextParameter comment="" name="archiveTmpDir" prompt="archiveTmpDir?" promptNeeded="false" type="id_Boolean" value=""/>
-    <contextParameter comment="" name="archiveWorkingDir" prompt="archiveWorkingDir?" promptNeeded="false" type="id_Boolean" value=""/>
-    <contextParameter comment="" name="archiveInputDir" prompt="archiveInputDir?" promptNeeded="false" type="id_Boolean" value=""/>
-    <contextParameter comment="" name="archiveOutputDir" prompt="archiveOutputDir?" promptNeeded="false" type="id_Boolean" value=""/>
+    <contextParameter comment="" name="tmpDeleteFilePattern" prompt="tmpDeleteFilePattern?" promptNeeded="false" type="id_String" value="" internalId="_Z3LYlsOmEeyNLr0wz1KYLw"/>
+    <contextParameter comment="" name="workingDeleteFilePattern" prompt="workingDeleteFilePattern?" promptNeeded="false" type="id_String" value="" internalId="_Z3LYl8OmEeyNLr0wz1KYLw"/>
+    <contextParameter comment="" name="inputDeleteFilePattern" prompt="inputDeleteFilePattern?" promptNeeded="false" type="id_String" value="" internalId="_Z3LYmMOmEeyNLr0wz1KYLw"/>
+    <contextParameter comment="" name="outputDeleteFilePattern" prompt="outputDeleteFilePattern?" promptNeeded="false" type="id_String" value="" internalId="_Z3LYmcOmEeyNLr0wz1KYLw"/>
+    <contextParameter comment="" name="archiveTmpDir" prompt="archiveTmpDir?" promptNeeded="false" type="id_Boolean" value="" internalId="_Z3LYmsOmEeyNLr0wz1KYLw"/>
+    <contextParameter comment="" name="archiveWorkingDir" prompt="archiveWorkingDir?" promptNeeded="false" type="id_Boolean" value="" internalId="_Z3LYm8OmEeyNLr0wz1KYLw"/>
+    <contextParameter comment="" name="archiveInputDir" prompt="archiveInputDir?" promptNeeded="false" type="id_Boolean" value="" internalId="_Z3LYnMOmEeyNLr0wz1KYLw"/>
+    <contextParameter comment="" name="archiveOutputDir" prompt="archiveOutputDir?" promptNeeded="false" type="id_Boolean" value="" internalId="_Z3LYncOmEeyNLr0wz1KYLw"/>
     <contextParameter comment="" name="documentationURL" prompt="documentationURL?" promptNeeded="false" repositoryContextId="_BS45gDYFEeW39qpAM_5fZw" type="id_String" value="talendframework.com"/>
     <contextParameter comment="" name="isHeadless" prompt="isHeadless?" promptNeeded="false" repositoryContextId="_BS45gDYFEeW39qpAM_5fZw" type="id_Boolean" value="false"/>
     <contextParameter comment="" name="systemErrorRecipient" prompt="systemErrorRecipient?" promptNeeded="false" repositoryContextId="_BS45gDYFEeW39qpAM_5fZw" type="id_String" value=""/>
@@ -252,14 +252,14 @@
     <contextParameter comment="" name="tmpDirRetentionDays" prompt="tmpDirRetentionDays?" promptNeeded="false" repositoryContextId="_BS45gDYFEeW39qpAM_5fZw" type="id_Integer" value="7"/>
     <contextParameter comment="" name="workingDirRetentionDays" prompt="workingDirRetentionDays?" promptNeeded="false" repositoryContextId="_BS45gDYFEeW39qpAM_5fZw" type="id_Integer" value="90"/>
     <contextParameter comment="" name="logDirRetentionDays" prompt="logDirRetentionDays?" promptNeeded="false" repositoryContextId="_BS45gDYFEeW39qpAM_5fZw" type="id_Integer" value="30"/>
-    <contextParameter comment="" name="tmpDeleteFilePattern" prompt="tmpDeleteFilePattern?" promptNeeded="false" type="id_String" value=""/>
-    <contextParameter comment="" name="workingDeleteFilePattern" prompt="workingDeleteFilePattern?" promptNeeded="false" type="id_String" value=""/>
-    <contextParameter comment="" name="inputDeleteFilePattern" prompt="inputDeleteFilePattern?" promptNeeded="false" type="id_String" value=""/>
-    <contextParameter comment="" name="outputDeleteFilePattern" prompt="outputDeleteFilePattern?" promptNeeded="false" type="id_String" value=""/>
-    <contextParameter comment="" name="archiveTmpDir" prompt="archiveTmpDir?" promptNeeded="false" type="id_Boolean" value=""/>
-    <contextParameter comment="" name="archiveWorkingDir" prompt="archiveWorkingDir?" promptNeeded="false" type="id_Boolean" value=""/>
-    <contextParameter comment="" name="archiveInputDir" prompt="archiveInputDir?" promptNeeded="false" type="id_Boolean" value=""/>
-    <contextParameter comment="" name="archiveOutputDir" prompt="archiveOutputDir?" promptNeeded="false" type="id_Boolean" value=""/>
+    <contextParameter comment="" name="tmpDeleteFilePattern" prompt="tmpDeleteFilePattern?" promptNeeded="false" type="id_String" value="" internalId="_Z3LYnsOmEeyNLr0wz1KYLw"/>
+    <contextParameter comment="" name="workingDeleteFilePattern" prompt="workingDeleteFilePattern?" promptNeeded="false" type="id_String" value="" internalId="_Z3LYn8OmEeyNLr0wz1KYLw"/>
+    <contextParameter comment="" name="inputDeleteFilePattern" prompt="inputDeleteFilePattern?" promptNeeded="false" type="id_String" value="" internalId="_Z3LYoMOmEeyNLr0wz1KYLw"/>
+    <contextParameter comment="" name="outputDeleteFilePattern" prompt="outputDeleteFilePattern?" promptNeeded="false" type="id_String" value="" internalId="_Z3LYocOmEeyNLr0wz1KYLw"/>
+    <contextParameter comment="" name="archiveTmpDir" prompt="archiveTmpDir?" promptNeeded="false" type="id_Boolean" value="" internalId="_Z3LYosOmEeyNLr0wz1KYLw"/>
+    <contextParameter comment="" name="archiveWorkingDir" prompt="archiveWorkingDir?" promptNeeded="false" type="id_Boolean" value="" internalId="_Z3LYo8OmEeyNLr0wz1KYLw"/>
+    <contextParameter comment="" name="archiveInputDir" prompt="archiveInputDir?" promptNeeded="false" type="id_Boolean" value="" internalId="_Z3LYpMOmEeyNLr0wz1KYLw"/>
+    <contextParameter comment="" name="archiveOutputDir" prompt="archiveOutputDir?" promptNeeded="false" type="id_Boolean" value="" internalId="_Z3LYpcOmEeyNLr0wz1KYLw"/>
     <contextParameter comment="" name="documentationURL" prompt="documentationURL?" promptNeeded="false" repositoryContextId="_BS45gDYFEeW39qpAM_5fZw" type="id_String" value="talendframework.com"/>
     <contextParameter comment="" name="isHeadless" prompt="isHeadless?" promptNeeded="false" repositoryContextId="_BS45gDYFEeW39qpAM_5fZw" type="id_Boolean" value="false"/>
     <contextParameter comment="" name="systemErrorRecipient" prompt="systemErrorRecipient?" promptNeeded="false" repositoryContextId="_BS45gDYFEeW39qpAM_5fZw" type="id_String" value=""/>
@@ -435,6 +435,8 @@
     <elementParameter field="TEXT" name="LABEL" value="ArchiveTmp"/>
     <elementParameter field="TEXT" name="CONNECTION_FORMAT" value="row"/>
     <elementParameter field="CHECK" name="FAILON" value="false"/>
+    <elementParameter field="CHECK" name="FORCE_COPY_DELETE" value="true"/>
+    <elementParameter field="CHECK" name="PRESERVE_LAST_MODIFIED_TIME" value="true"/>
     <metadata connector="FLOW" name="tFileCopy_1"/>
   </node>
   <node componentName="tFileList" componentVersion="0.102" offsetLabelX="0" offsetLabelY="0" posX="928" posY="320">
@@ -517,6 +519,8 @@
     <elementParameter field="TEXT" name="LABEL" value="ArchiveWorking"/>
     <elementParameter field="TEXT" name="CONNECTION_FORMAT" value="row"/>
     <elementParameter field="CHECK" name="FAILON" value="false"/>
+    <elementParameter field="CHECK" name="FORCE_COPY_DELETE" value="true"/>
+    <elementParameter field="CHECK" name="PRESERVE_LAST_MODIFIED_TIME" value="true"/>
     <metadata connector="FLOW" name="tFileCopy_2"/>
   </node>
   <node componentName="tJava" componentVersion="0.101" offsetLabelX="0" offsetLabelY="0" posX="704" posY="448">
@@ -590,6 +594,8 @@
     <elementParameter field="TEXT" name="LABEL" value="ArchiveInput"/>
     <elementParameter field="TEXT" name="CONNECTION_FORMAT" value="row"/>
     <elementParameter field="CHECK" name="FAILON" value="false"/>
+    <elementParameter field="CHECK" name="FORCE_COPY_DELETE" value="true"/>
+    <elementParameter field="CHECK" name="PRESERVE_LAST_MODIFIED_TIME" value="true"/>
     <metadata connector="FLOW" name="tFileCopy_3"/>
   </node>
   <node componentName="tJava" componentVersion="0.101" offsetLabelX="0" offsetLabelY="0" posX="704" posY="576">
@@ -663,6 +669,8 @@
     <elementParameter field="TEXT" name="LABEL" value="ArchiveOutput"/>
     <elementParameter field="TEXT" name="CONNECTION_FORMAT" value="row"/>
     <elementParameter field="CHECK" name="FAILON" value="false"/>
+    <elementParameter field="CHECK" name="FORCE_COPY_DELETE" value="true"/>
+    <elementParameter field="CHECK" name="PRESERVE_LAST_MODIFIED_TIME" value="true"/>
     <metadata connector="FLOW" name="tFileCopy_4"/>
   </node>
   <node componentName="tJava" componentVersion="0.101" offsetLabelX="0" offsetLabelY="0" posX="704" posY="704">

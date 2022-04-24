@@ -32,7 +32,7 @@
     <contextParameter comment="Chemin d'accès au fichier Excel utilisateur de configuration de l'extraction" name="userExcelConfigFile" prompt="userExcelConfigFile?" promptNeeded="false" repositoryContextId="_Iom-oBe7Ed-5l4LCrtxZGQ" type="id_String" value="D:/ihm/framework/configuration/configuration.xlsx"/>
   </context>
   <parameters>
-    <elementParameter field="TEXT" name="JOB_RUN_VM_ARGUMENTS" value=" -Xms256M -Xmx1024M"/>
+    <elementParameter field="TEXT" name="JOB_RUN_VM_ARGUMENTS" value="{&quot;JOB_RUN_VM_ARGUMENTS&quot;:[&quot;-Xms256M&quot;,&quot;-Xmx1024M&quot;]}"/>
     <elementParameter field="CHECK" name="JOB_RUN_VM_ARGUMENTS_OPTION" value="false"/>
     <elementParameter field="TEXT" name="SCREEN_OFFSET_X" value="0"/>
     <elementParameter field="TEXT" name="SCREEN_OFFSET_Y" value="0"/>
@@ -247,6 +247,7 @@
     <elementParameter field="CHECK" name="INFORMATION" value="false"/>
     <elementParameter field="MEMO" name="COMMENT" value=""/>
     <elementParameter field="CHECK" name="VALIDATION_RULES" value="false"/>
+    <elementParameter field="CHECK" name="FILE_EXIST_EXCEPTION" value="false"/>
     <metadata connector="FLOW" label="RAPPORT_ERREUR" name="tFileOutputDelimited_1">
       <column comment="La collectivité où l’erreur est détectée" key="false" length="0" name="COLLECTIVITE" nullable="true" pattern="" precision="0" type="id_String" usefulColumn="true"/>
       <column comment="L'établissement où l'erreur est détectée" key="false" length="0" name="ETABLISSEMENT" nullable="true" pattern="" precision="0" type="id_String" usefulColumn="true"/>
@@ -317,6 +318,7 @@
     <elementParameter field="CHECK" name="INFORMATION" value="false"/>
     <elementParameter field="MEMO" name="COMMENT" value=""/>
     <elementParameter field="CHECK" name="VALIDATION_RULES" value="false"/>
+    <elementParameter field="CHECK" name="FILE_EXIST_EXCEPTION" value="false"/>
     <metadata connector="FLOW" label="RAPPORT_AVERTISSEMENT" name="tFileOutputDelimited_2">
       <column comment="La collectivité où l’avertissement est levé" key="false" length="0" name="COLLECTIVITE" nullable="true" pattern="" precision="0" type="id_String" usefulColumn="true"/>
       <column comment="L'établissement où l’avertissement est levé" key="false" length="0" name="ETABLISSEMENT" nullable="true" pattern="" precision="0" type="id_String" usefulColumn="true"/>
@@ -389,6 +391,7 @@
     <elementParameter field="CHECK" name="INFORMATION" value="false"/>
     <elementParameter field="MEMO" name="COMMENT" value=""/>
     <elementParameter field="CHECK" name="VALIDATION_RULES" value="false"/>
+    <elementParameter field="CHECK" name="FILE_EXIST_EXCEPTION" value="false"/>
     <metadata connector="FLOW" label="RAPPORT_CORRECTION" name="tFileOutputDelimited_4">
       <column comment="La collectivité où la correction a été effectuée" key="false" length="0" name="COLLECTIVITE" nullable="true" pattern="" precision="0" type="id_String" usefulColumn="true"/>
       <column comment="L'établissement où la correction a été effectuée" key="false" length="0" name="ETABLISSEMENT" nullable="true" pattern="" precision="0" type="id_String" usefulColumn="true"/>
@@ -461,6 +464,7 @@
     <elementParameter field="CHECK" name="INFORMATION" value="false"/>
     <elementParameter field="MEMO" name="COMMENT" value=""/>
     <elementParameter field="CHECK" name="VALIDATION_RULES" value="false"/>
+    <elementParameter field="CHECK" name="FILE_EXIST_EXCEPTION" value="false"/>
     <metadata connector="FLOW" label="RAPPORT_AVERTISSEMENT" name="tFileOutputDelimited_3">
       <column comment="La collectivité où l’avertissement est levé" key="false" length="0" name="COLLECTIVITE" nullable="true" pattern="" precision="0" type="id_String" usefulColumn="true"/>
       <column comment="L'établissement où l’avertissement est levé" key="false" length="0" name="ETABLISSEMENT" nullable="true" pattern="" precision="0" type="id_String" usefulColumn="true"/>

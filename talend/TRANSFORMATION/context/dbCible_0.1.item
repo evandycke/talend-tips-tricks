@@ -1,11 +1,2 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" confirmationNeeded="false" name="Default">
-  <contextParameter comment="Driver utilisé pour la connexion" name="dbCible_DriverJar" prompt="dbCible_DriverJar?" promptNeeded="false" type="id_String" value="C:\\Talend\\TOS_DI-Win32-r110020-V5.4.0\\lib\\java\\sqlite-jdbc-3.7.2.jar"/>
-  <contextParameter comment="Fichier de mapping" name="dbCible_MappingFile" prompt="dbCible_MappingFile?" promptNeeded="false" type="id_String" value="sqlite_id"/>
-  <contextParameter comment="Utilisateur" name="dbCible_Login" prompt="dbCible_Login?" promptNeeded="false" type="id_String" value=""/>
-  <contextParameter comment="Mot de passe" name="dbCible_Password" prompt="dbCible_Password?" promptNeeded="false" type="id_Password" value=""/>
-  <contextParameter comment="Nom de la classe utilisé pour la connexion" name="dbCible_ClassName" prompt="dbCible_ClassName?" promptNeeded="false" type="id_String" value="org.sqlite.JDBC"/>
-  <contextParameter comment="URL de connexion" name="dbCible_JdbcUrl" prompt="dbCible_JdbcUrl?" promptNeeded="false" type="id_String" value="jdbc:sqlite:/d:/ihm/gp/mggp vega 2 tamgp 2.00.01.06/bin/tmptampon/tampon.sqlite"/>
-  <contextParameter comment="Schéma utilisé pour la connexion" name="dbCible_Schema" prompt="dbCible_Schema?" promptNeeded="false" type="id_String" value=""/>
-  <contextParameter comment="Nom de la connexion partagée" name="dbCible_ConnectionName" prompt="dbCible_ConnectionName?" promptNeeded="false" type="id_String" value="null"/>
-</talendfile:ContextType>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_4XI68MOmEeyt_MxQNXZcvg"/>

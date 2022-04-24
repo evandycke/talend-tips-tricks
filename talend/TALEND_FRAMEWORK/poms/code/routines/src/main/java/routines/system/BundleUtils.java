@@ -1,6 +1,6 @@
 // ============================================================================
 //
-// Copyright (C) 2006-2019 Talend Inc. - www.talend.com
+// Copyright (C) 2006-2021 Talend Inc. - www.talend.com
 //
 // This source code is available under agreement available at
 // %InstallDIR%\features\org.talend.rcp.branding.%PRODUCTNAME%\%PRODUCTNAME%license.txt
@@ -13,6 +13,11 @@
 package routines.system;
 
 import java.lang.reflect.Method;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
+import java.lang.String;
+import java.util.Dictionary;
 
 public final class BundleUtils {
 
@@ -58,6 +63,23 @@ public final class BundleUtils {
         }
     }
 
+    public static Object getService(String svcClass) {
+        if (BUNDLE == null) {
+            return null;
+        }
+        try {
+            Method getBundleContext = BUNDLE.getClass().getMethod("getBundleContext");
+            Object context = getBundleContext.invoke(BUNDLE);
+            Class<?> ctxClass = context.getClass();
+            Method getServiceReference = ctxClass.getMethod("getServiceReference", String.class);
+            Object serviceReference = getServiceReference.invoke(context, svcClass);
+            Method getService = ctxClass.getMethod("getService", SERVICE_REFERENCE_CLASS);
+            return (Object)getService.invoke(context, serviceReference);
+        } catch (Exception e) {
+            return null;
+        }
+    }
+
     public static  <T> T getService(Class<T> svcClass, Object bundleContext) {
         if (BUNDLE_CONTEXT_CLASS == null || bundleContext == null) {
             return null;
@@ -72,6 +94,49 @@ public final class BundleUtils {
             Method getService = ctxClass.getMethod("getService", SERVICE_REFERENCE_CLASS);
             return svcClass.cast(getService.invoke(bundleContext, serviceReference));
         } catch (Exception e) {
+            return null;
+        }
+    }
+    
+    public static <T> Map<String, T> getServices(List<?> serviceReferences, Class<T> serviceClass ) {
+    	
+    	Map<String, T> services = new HashMap<String, T>();
+    	
+        if (BUNDLE == null || SERVICE_REFERENCE_CLASS == null ) {
+            return services;
+        }
+
+        try {
+        	for (Object serviceRef : serviceReferences) {
+        		Object serviceId = serviceRef.getClass().getMethod("getProperty", 
+        				java.lang.String.class).invoke(serviceRef, "osgi.jndi.service.name");
+    	        Method getBundleContext = BUNDLE.getClass().getMethod("getBundleContext");
+    	        Object context = getBundleContext.invoke(BUNDLE);
+    	        Class<?> ctxClass = context.getClass();
+    	        Method getService = ctxClass.getMethod("getService", SERVICE_REFERENCE_CLASS);
+    	        services.put(serviceId.toString(), serviceClass.cast(getService.invoke(context, serviceRef)));
+        	}
+        	return services;
+        } catch (Exception e) {
+            return services;
+        }
+    }
+
+    public static Dictionary<String, Object> getJobProperties(String jobName) {
+
+        try {
+            Object configAdminObject = getService("org.osgi.service.cm.ConfigurationAdmin");
+
+            Method getConfigurationMethod = configAdminObject.getClass().getMethod("getConfiguration", String.class);
+
+            Object configAdminJobConfiguration = getConfigurationMethod.invoke(configAdminObject, jobName);
+
+            Method getPropertiesMethod = configAdminJobConfiguration.getClass().getMethod("getProperties", null);
+
+            Dictionary<String, Object> jobProperties = (Dictionary<String, Object>)getPropertiesMethod.invoke(configAdminJobConfiguration, null);
+
+            return jobProperties;
+        } catch(Exception e) {
             return null;
         }
     }

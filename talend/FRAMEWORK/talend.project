@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
-  <TalendProperties:Project xmi:id="_B3Q74fqmEeOF0d40HMxIag" label="FRAMEWORK" description="" language="java" technicalLabel="FRAMEWORK" local="true" author="_B5OqwPqmEeOF0d40HMxIag" productVersion="Talend Open Studio for Data Integration-7.3.1.20200219_1130" itemsRelationVersion="1.3">
+  <TalendProperties:Project xmi:id="_B3Q74fqmEeOF0d40HMxIag" label="FRAMEWORK" description="" language="java" technicalLabel="FRAMEWORK" local="true" author="_B5OqwPqmEeOF0d40HMxIag" productVersion="Talend Open Studio for Data Integration-8.0.1.20211109_1610" itemsRelationVersion="1.3">
     <componentsSettings xmi:id="_FKws8PqmEeOF0d40HMxIag" name="DI|tGroovyFile" family="Custom_Code"/>
     <componentsSettings xmi:id="_FKws8fqmEeOF0d40HMxIag" name="DI|tSortIn" family="Technical"/>
     <componentsSettings xmi:id="_FKws8vqmEeOF0d40HMxIag" name="DI|tOpenbravoERPInput" family="Business/Open Bravo"/>

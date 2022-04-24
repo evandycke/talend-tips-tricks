@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <talendfile:ProcessType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMapper="http://www.talend.org/mapper" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" defaultContext="Default">
   <context confirmationNeeded="false" name="Default">
-    <contextParameter comment="" name="contextName" prompt="contextName?" promptNeeded="false" type="id_String" value="null"/>
-    <contextParameter comment="" name="contextStr" prompt="contextStr?" promptNeeded="false" type="id_String" value="null"/>
+    <contextParameter comment="" name="contextName" prompt="contextName?" promptNeeded="false" type="id_String" value="null" internalId="_aCw9gMOmEeyNLr0wz1KYLw"/>
+    <contextParameter comment="" name="contextStr" prompt="contextStr?" promptNeeded="false" type="id_String" value="null" internalId="_aCw9gcOmEeyNLr0wz1KYLw"/>
     <contextParameter comment="" name="framework" prompt="framework?" promptNeeded="false" repositoryContextId="_BS45gDYFEeW39qpAM_5fZw" type="id_Object" value=""/>
     <contextParameter comment="" name="debug" prompt="debug?" promptNeeded="false" repositoryContextId="_BS45gDYFEeW39qpAM_5fZw" type="id_Boolean" value="false"/>
     <contextParameter comment="" name="tmpDir" prompt="tmpDir?" promptNeeded="false" repositoryContextId="_Zid7kDYIEeW39qpAM_5fZw" type="id_String" value="#BASEDIR/#JOBNAME/tmp"/>
